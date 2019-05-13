@@ -1,0 +1,2114 @@
+(ROOT
+  (S (CC But)
+    (PP (IN in)
+      (NP (NN production)))
+    (NP
+      (NP (NNP india) (POS 's))
+      (NN place))
+    (VP (VBZ is)
+      (ADJP (JJ fourth)
+        (PP (IN after)
+          (NP (NNP America) (, ,) (NNP Russia)
+            (CC and)
+            (NNP China))))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBP are)
+            (NP (JJ maximum) (VBG producing) (NNS countries))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ major) (NN reason))
+      (PP (IN behind)
+        (NP
+          (NP (DT the) (JJ low) (NN production))
+          (PP (IN of)
+            (NP
+              (NP (NN cotton))
+              (PP (IN in)
+                (NP (NNP India))))))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (S
+            (NP (JJ proper) (NN irrigation) (NN facility))
+            (VP (VBZ is)
+              (ADJP (JJ available))
+              (ADVP (RB only))
+              (PP (IN in)
+                (NP
+                  (NP (CD 1))
+                  (PP (IN of)
+                    (NP (DT the) (JJ agricultural) (NN land)))))))
+          (CC and)
+          (S
+            (NP
+              (NP (DT the) (NN rest))
+              (PP (IN of)
+                (NP (DT the) (NN farming))))
+            (VP (VBZ depends)
+              (PP (IN upon)
+                (NP (NN rain) (NN water))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (VBG According)
+        (PP (TO to)
+          (NP
+            (NP (NN production))
+            (PP (IN per)
+              (NP
+                (NP (NN acre))
+                (PP (IN in)
+                  (NP (NNS states))))))))
+      (NP (NNP Maharashtra))
+      (VP (VBZ is)
+        (NP (DT a) (NN leader))))
+    (CC but)
+    (S
+      (PP (IN in)
+        (NP (JJ gross) (NN produce)))
+      (NP (NNP Gujarat))
+      (VP (VBZ is)
+        (ADJP (JJ topmost))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NN cotton) (NN farming)))
+    (NP
+      (QP (JJR more) (IN than) (CD 4.5))
+      (JJ crore) (NNS people))
+    (VP
+      (VP (VBP are)
+        (ADJP (JJ busy)
+          (PP (IN in)
+            (NP (NN employment)))))
+      (CC and)
+      (VP (VBP run)
+        (NP (PRP$ their) (NN household))
+        (PP (IN through)
+          (NP (DT this) (JJ only)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADJP (JJ difficult)
+          (S
+            (VP (TO to)
+              (VP (VB describe)
+                (NP
+                  (NP (DT the) (NN beauty))
+                  (PP (IN of)
+                    (NP (NN cotton) (NNS farms))))
+                (PP (IN in)
+                  (NP (NNS words)))))))))
+    (: -)
+    (S
+      (NP (PRP it))
+      (VP (VBD felt)
+        (SBAR (IN like)
+          (SINV
+            (CONJP (RB as) (IN if))
+            (VBZ heaven)
+            (NP (PRP itself))
+            (VP (VB spread)
+              (NP (NNS whiteness))
+              (PP (IN on)
+                (NP (DT this) (NN earth))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN smile)
+          (CC and)
+          (NN shine))
+        (PP (IN of)
+          (NP
+            (NP (NNS thousands))
+            (PP (IN of)
+              (NP
+                (NP (NN fiber))
+                (VP (VBG coming)
+                  (PRT (RP out))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NNS seeds))
+                      (PP (IN of)
+                        (NP (NN core)))))))))))
+      (VP (VBD was)
+        (VP (VBG enamouring))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD appeared)
+        (SBAR (RB as) (IN if)
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (NP
+                (NP (JJ decorative) (NNS sculptures))
+                (PP (IN with)
+                  (NP
+                    (NP (JJ magical) (NN attraction))
+                    (PP (IN on)
+                      (NP
+                        (ADJP
+                          (NP
+                            (QP (CD 4) (TO to) (CD 6))
+                            (NN foot))
+                          (JJ high))
+                        (NNS plants)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Dr.) (NNP Joshi))
+    (VP (VBD told)
+      (NP (NNS students))
+      (SBAR (IN that)
+        (S
+          (NP (NN cotton))
+          (VP (VBZ is)
+            (NP
+              (NP (DT a) (NN seed) (NN fiber))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ grows)
+                    (PP (IN from)
+                      (NP
+                        (NP (NN plant))
+                        (PP (IN of)
+                          (NP (NNP Gossypium) (NN plant)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN member))
+        (PP (IN of)
+          (NP (NNP Malvaceae) (NN family)))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADVP (RB also))
+              (VP (VBN known)
+                (PP (IN as)
+                  (NP
+                    (NP (NN mallow) (NN family))
+                    (PP (IN in)
+                      (NP
+                        (NP (NN layman) (POS 's))
+                        (NN language)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (CD 36) (NNS varieties))
+      (VP (VBP are)
+        (VP (VBN approved)
+          (PP (IN under)
+            (NP (NNP Gossypium) (NNS species))))))
+    (CC but)
+    (S
+      (S
+        (VP (TO to)
+          (VP (VB produce)
+            (NP
+              (NP (NN cotton))
+              (PP (IN of)
+                (NP (DT a) (JJ good) (NN variety))))
+            (PP (IN from)
+              (NP
+                (NP (DT these) (NN farming))
+                (PP (IN of)
+                  (NP
+                    (NP
+                      (QP (RB only) (CD four))
+                      (NNS kinds))
+                    (PP (IN of)
+                      (NP (NN cotton))))))))))
+      (VP (VBZ is)
+        (VP (VBN done)
+          (SBAR (IN because)
+            (S
+              (NP (JJ other) (NNS species))
+              (VP (VBP are)
+                (ADJP (JJ wild))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Gossypium) (NNP Hirsutum))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the)
+            (ADJP (RBS most) (JJ important))
+            (NN plant) (NN species))
+          (PP (IN of)
+            (NP
+              (NP (DT these))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ is)
+                    (ADVP (RB originally))
+                    (VP (VBN found)
+                      (PP (IN in)
+                        (NP (NNP Cambodia)
+                          (CC and)
+                          (NNP Mexico))))))))))))
+    (CC but)
+    (ADVP (RB now))
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (VP (VBG being)
+          (VP (VBN grown)
+            (PP (IN in)
+              (NP
+                (NP (DT a) (JJ large) (NN part))
+                (PP (IN of)
+                  (NP (NNP America)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ important)
+        (PP (IN for)
+          (NP (JJ many) (NNS qualities))))
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADVP (RB there))
+            (PP (IN in)
+              (NP (NN cotton) (NN crop)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Of)
+      (NP
+        (NP (DT these))
+        (SBAR
+          (S
+            (NP (DT some) (NNS properties))
+            (VP (VBP are)
+              (SBAR (IN as)
+                (S
+                  (VP
+                    (VP (VBZ follows) (: :)
+                      (S
+                        (NP
+                          (NP (RB Early) (NN maturation))
+                          (PP (IN of)
+                            (NP
+                              (NP (NN crop))
+                              (, ,)
+                              (NP
+                                (NP (JJ enough) (NN availability))
+                                (PP (IN of)
+                                  (NP (NN immunity)))))))
+                        (VP (TO to)
+                          (VP (VB defend)
+                            (PP (IN from)
+                              (NP (NNS diseases)
+                                (CC and)
+                                (NNS insects)))))))
+                    (CC and)
+                    (VP (VBZ pests))))))))
+        (, ,)
+        (PP (IN of)
+          (S
+            (VP (VBG reaping)
+              (NP (JJR more) (NN harvest)))))))
+    (, ,)
+    (NP
+      (NP (NNS fibers))
+      (VP (VBG being)
+        (ADJP (RBR more) (JJ strong))))
+    (VP (VBZ etc.))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP New) (NNP varieties))
+      (PP (IN of)
+        (NP (NN cotton))))
+    (VP (VBP are)
+      (VP (VBG being)
+        (VP (VBN issued)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBP contain)
+                (PP (IN above)
+                  (NP (JJ mentioned) (NNS qualities)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (DT the) (NN production))
+        (PP (IN of)
+          (NP
+            (NP (NN cotton))
+            (PP (IN in)
+              (NP (DT every) (NN cotton) (NN species)))))))
+    (NP
+      (NP (JJ various) (NNS varieties))
+      (PP (IN of)
+        (NP (NN cotton))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN developed)
+          (PP (IN through)
+            (NP
+              (NP (DT the) (NN medium))
+              (PP (IN of)
+                (NP (VBG breeding) (NN program))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS chromosomes))
+      (PP (IN of)
+        (NP (CD two) (NNS species))))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN interbred)
+          (S
+            (VP (TO to)
+              (VP (VB develop)
+                (NP (JJ hybrid) (NNS plants))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Recently))
+    (NP (JJ few) (NNS years))
+    (VP (VBP back)
+      (SBAR
+        (S
+          (NP
+            (NP (DT a) (JJ new) (NN seed))
+            (PP (IN of)
+              (NP (NN cotton))))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (VP (VBN prepared)
+                (PP (IN in)
+                  (NP (NNP America)))
+                (PP (IN through)
+                  (NP
+                    (NP (JJ genetic) (NN modification))
+                    (SBAR
+                      (WHNP (WDT which))
+                      (S
+                        (VP (VBZ is)
+                          (VP (VBN known)
+                            (PP (IN as)
+                              (NP (NNP Bt) (NN cotton) (NN seed)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN seed))
+    (VP (VBZ provides)
+      (NP (DT the) (NN cotton) (NN crop))
+      (PP (IN with)
+        (NP (DT the) (NN power)
+          (S
+            (VP (TO to)
+              (VP (VB fight)
+                (PP (IN from)
+                  (NP (NNS diseases)
+                    (CC and)
+                    (NNS insects)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN With)
+      (NP (PRP$ its) (NN use)))
+    (NP (EX there))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP
+          (NP (JJ tremendous) (NN increase))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN cotton) (NN production))
+              (PP (IN of)
+                (NP (NNP America)
+                  (CC and)
+                  (NNP China))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN permission)
+      (S
+        (VP (TO to)
+          (VP (VB sow)
+            (NP
+              (NP (DT this) (NN seed))
+              (PP (IN in)
+                (NP (NNP India))))))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP
+          (ADVP (RB recently))
+          (VBN granted))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Warm) (NN climate))
+      (, ,)
+      (NP (JJ adequate) (NN humidity))
+      (CC and)
+      (NP (JJ loamy) (NN soil)))
+    (ADVP (IN along)
+      (PP (IN with)
+        (NP (JJ proper) (NN irrigation) (NN facility))))
+    (VP (VBP are)
+      (VP (VBN required)
+        (PP (IN for)
+          (NP
+            (ADJP (JJS best) (NN cotton))
+            (NN production)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Cotton))
+    (VP (VBZ is)
+      (VP (VBN sown)
+        (PP (IN at)
+          (NP (JJ different) (NNS times)))
+        (PP (VBG depending)
+          (PP (IN upon)
+            (NP
+              (NP
+                (NP (DT the) (JJ climatic) (NN condition))
+                (PP (IN of)
+                  (NP (DT the) (NN region))))
+              (, ,)
+              (NP
+                (NP (NNS types))
+                (PP (IN of)
+                  (NP (NN soil))))
+              (CC and)
+              (NP
+                (NP (DT the) (NN cotton) (NN species))
+                (CC and)
+                (NP (NNS varieties))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Cotton))
+    (VP (VBZ is)
+      (ADVP (RB generally))
+      (VP (VBN grown)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN mid))
+            (PP (IN of)
+              (NP (NNP May)))))
+        (PP (IN in)
+          (NP (NNP north) (NNP India)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP (NN sowing)))
+    (SBAR
+      (WHADVP (WRB when))
+      (S
+        (S
+          (NP (DT the) (NNS seeds))
+          (VP (VBP grow)))
+        (CC and)
+        (S
+          (NP (DT the) (JJ main) (NN root))
+          (VP (VBZ enters)
+            (NP (DT the) (NN soil))))))
+    (ADVP (RB then))
+    (NP (PRP it))
+    (VP (VBZ starts)
+      (S
+        (VP (VBG taking)
+          (NP (PRP$ its) (NN food))
+          (PP (IN from)
+            (NP
+              (NP (DT the) (NN soil))
+              (PP (IN for)
+                (NP (PRP$ its) (NN growth))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Right)
+      (PP (IN from)
+        (NP
+          (NP (DT the) (NN growth))
+          (PP (IN of)
+            (NP (NN cotton) (NN plant))))
+        (PP (TO to)
+          (NP (PRP$ its) (VBG flowering) (NN stage)))))
+    (NP (EX there))
+    (VP (VBZ is)
+      (NP
+        (NP (JJ great) (NN impact))
+        (PP (IN of)
+          (NP
+            (NP (NN sunlight))
+            (, ,)
+            (NP (JJ warm) (NN climate))
+            (CC and)
+            (NP (NN availability))))
+        (PP (IN of)
+          (NP (NN water)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (NN example)))
+    (SBAR (IN if)
+      (S
+        (NP (EX there))
+        (VP (VBZ is)
+          (NP (JJ high) (NN temperature))
+          (PP (DT both) (IN during)
+            (NP (NN day)
+              (CC and)
+              (NN night))))))
+    (ADVP (RB then))
+    (NP (DT the) (JJ flowering) (NN stage))
+    (VP (VBZ begins)
+      (ADVP (RB lately)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN Within)
+        (NP
+          (QP (CD four) (TO to) (CD six))
+          (NNS weeks)))
+      (NP (PRP it))
+      (VP (VBZ starts)
+        (NP (VBG budding))))
+    (CC and)
+    (S
+      (PP (IN after)
+        (NP
+          (NP (CD 100) (NNS days))
+          (PP (IN of)
+            (NP (NN sowing)))))
+      (NP (DT the) (NN plant))
+      (VP (VBZ starts)
+        (S
+          (VP (VBG flowering)
+            (NP
+              (NP
+                (ADJP (JJ white)
+                  (CC or)
+                  (JJ light))
+                (JJ dark) (NN yellow))
+              (VP (VBN colored)
+                (NP
+                  (ADJP (RB very) (JJ sensitive))
+                  (NNS flowers))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN seed) (NNS capsules))
+    (VP (VBP grow)
+      (UCP
+        (ADJP (RB very) (JJ fast))
+        (CC and)
+        (PP (IN after)
+          (S
+            (VP (VBG ripening)
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ becomes)
+                    (NP
+                      (NP
+                        (NP (CD 2.5) (NN cm))
+                        (PP (IN in)
+                          (NP (NN width))))
+                      (CC and)
+                      (NP
+                        (NP (CD 3.8) (NN cm))
+                        (PP (IN in)
+                          (NP (NN length)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN seed) (NN capsule))
+    (VP (VBZ ruptures)
+      (PP
+        (PP (IN after)
+          (NP (CD 50-80) (NNS days)))
+        (CC and)
+        (PP (IN during)
+          (NP
+            (NP (DT this) (NN time))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NN year))
+                (PRN (-LRB- -LRB-)
+                  (NP (NNP November))
+                  (-RRB- -RRB-))
+                (SBAR
+                  (WHADVP (WRB when))
+                  (S
+                    (NP (PRP it))
+                    (ADVP (RB completely))
+                    (VP (VBZ opens)
+                      (SBAR
+                        (S
+                          (NP (PRP we))
+                          (VP (VBP get)
+                            (S
+                              (VP (TO to)
+                                (VP (VB see)
+                                  (NP (DT this) (NN sight)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS tents))
+      (PP (IN of)
+        (NP (NN cotton) (NNS fibers))))
+    (VP (VBP are)
+      (ADVP (RB generally))
+      (VP (VBN plucked)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN month))
+            (PP (IN of)
+              (NP (NNP November)))))
+        (PP
+          (PP (IN with)
+            (NP
+              (NP (NNS hands))
+              (PP (IN in)
+                (NP (NNP India)))))
+          (CC and)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (NN help))
+              (PP (IN of)
+                (NP (NN machine))))))
+        (PP (IN in)
+          (ADVP (RB abroad)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN teacher))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP
+            (NP (NN silk) (NN worm) (NN rearing))
+            (PP (IN in)
+              (NP (NNP India))))
+          (VP (VBD started)
+            (PP (IN in)
+              (NP (DT the) (NN year) (CD 400)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (NP (NNP India))
+    (VP (VBZ leads)
+      (NP
+        (NP (DT the) (NN silk))
+        (VP (VBG producing)
+          (NP
+            (NP (NNS countries))
+            (PP (IN of)
+              (NP (DT the) (NN world)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ small) (NN industry))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (CD 50,000) (NNS villages))
+            (VP (VBP are)
+              (VP (VBN engaged)
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN work))
+                    (PP (IN of)
+                      (NP (NN sericulture)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP India))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ only) (NN country))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP
+              (NP (JJ various) (NNS kinds))
+              (PP (IN of)
+                (NP (NN silk))))
+            (VP (VBP are)
+              (VP (VBN procured)
+                (PP (IN by)
+                  (S
+                    (VP (VBG rearing)
+                      (NP
+                        (NP (JJ many) (NNS kinds))
+                        (PP (IN of)
+                          (NP (NN silk) (NNS worms)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Golden) (NNP colored) (NNP Munga) (NNP silk))
+    (VP (VBZ is)
+      (VP (VBN grown)
+        (ADVP (RB only))
+        (PP (IN in)
+          (NP (PRP$ our) (NN county)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Like)
+      (NP (NN agriculture)))
+    (, ,)
+    (NP (NN silkworm) (NN rearing))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (NP
+        (NP (DT a) (JJ major) (NN means))
+        (PP (IN of)
+          (NP (VBG earning) (NN livelihood)
+            (SBAR
+              (WHADVP (WRB where))
+              (S
+                (NP
+                  (NP (JJ many) (NNS thousands))
+                  (PP (IN of)
+                    (NP (NNS laborers))))
+                (VP (VBP produce)
+                  (NP (JJ valuable) (NNS fibers))
+                  (PP (IN while)
+                    (S
+                      (VP (VBG working)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Silk))
+      (VP (VBZ is)
+        (VP (VBN prepared)
+          (PP (IN by)
+            (NP
+              (NP (JJ many) (NNS kinds))
+              (PP (IN of)
+                (NP (NNS worms))))))))
+    (CC but)
+    (S
+      (NP (NNP Bombyx) (NNP Mori))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (DT the) (JJ major) (NN silkworm))
+          (PP (IN among)
+            (NP (PRP them))))))
+    (CC and)
+    (S
+      (NP (NN silk))
+      (VP (VBZ is)
+        (VP (VBN produced)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (JJ special) (NN environment))
+              (PP (IN of)
+                (NP (JJ sericulture) (NN farm))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN larva))
+      (PP (IN of)
+        (NP (DT this) (NN worm))))
+    (VP (VBP eat)
+      (NP (JJ mulberry) (NNS leaves)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Silkworm))
+    (VP (VBZ looks)
+      (PP (IN like)
+        (NP (NN butterfly)))
+      (PP (IN from)
+        (SBAR
+          (WHNP
+            (NP (WP$ whose) (NNS eggs))
+            (PRN
+              (ADVP (RB initially))
+              (ADVP (RB caterpillar))))
+          (S
+            (VP (VBZ is)
+              (VP (VBN built)))))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (NP (DT the) (NN caterpillar) (NN pupa))
+    (VP (VBZ builds)
+      (NP
+        (NP (DT a) (NN cyst))
+        (PP (IN across)
+          (NP (PRP itself))))
+      (PP (IN for)
+        (NP
+          (NP (PRP$ its) (NN safety))
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN process))
+              (PP (IN of)
+                (NP
+                  (NP (NNS chrysalis))
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ is)
+                        (VP (VBN known)
+                          (PP (IN as)
+                            (NP (NN cocoon))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS chrysalis))
+      (VP (VBZ comes)
+        (PRT (RP out))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN cocoon))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN form))
+                (PP (IN of)
+                  (NP (NN moth)))))))
+        (PP (IN after)
+          (NP (JJ complete) (NN maturation)))))
+    (CC and)
+    (RB then)
+    (S
+      (NP (DT the) (JJ female) (NN moth))
+      (VP (VBZ lays)
+        (NP (NNS eggs))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Thus))
+    (NP
+      (NP (DT the) (NN life) (NN cycle))
+      (PP (IN of)
+        (NP (NN silkworm))))
+    (VP (VBZ completes))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD said)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBZ rear)
+            (NP
+              (NP (NNS silkworms))
+              (PP (IN of)
+                (NP (NNP Bombyx) (NNP Mori) (NNS species))))
+            (ADVP (RB only))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ female) (NN moth))
+      (PP (IN of)
+        (NP (DT these) (NNS insects))))
+    (VP
+      (VP (VBP give)
+        (NP
+          (QP (RB approximately) (CD 700))
+          (NNS eggs))
+        (PP (IN after)
+          (S
+            (VP (VBG coming)
+              (PRT (RP out))
+              (PP (IN of)
+                (NP (DT the) (NN cocoon)))))))
+      (CC and)
+      (VP
+        (ADVP (RB then))
+        (VBP die)))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (VP (VBZ silkworms)
+          (PP (IN of)
+            (NP (JJ other) (NNS species))))))
+    (VP (VB give)
+      (NP (CD 350-400) (NNS eggs)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN size))
+      (PP (IN of)
+        (NP (DT every) (NN egg))))
+    (VP (VBZ is)
+      (ADJP (JJ equal)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (NN size))
+            (PP (IN of)
+              (NP
+                (NP (DT a) (NN pin) (NN head))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBZ has)
+                      (NP (DT a) (JJ soft) (NN point)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Because)
+      (PP (IN of)
+        (NP (DT this) (JJ soft) (NN point))))
+    (NP (DT the) (NN cocoon))
+    (VP (VBZ breaks)
+      (ADVP (RB easily)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS eggs))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ light)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN weight))
+      (PP (IN of)
+        (NP
+          (QP (RB around) (CD 40,000))
+          (NNS eggs))))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (QP (RB just) (RB approximately)))
+        (NP (DT an) (NN ounce))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBG According)
+      (PP (TO to)
+        (NP (DT the) (NN climate))))
+    (NP (DT these) (NNS eggs))
+    (VP (VBP turn)
+      (PP (IN into)
+        (NP (NN larva)))
+      (PP (IN within)
+        (NP (CD 3-7) (NNS days))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (NN caterpillar))
+    (VP (VBZ eats)
+      (NP
+        (NP
+          (QP (CD 7,000-9) (CD ,000)
+            (CC times))
+          (JJ mulberry) (NNS leaves))
+        (PP (IN of)
+          (NP (PRP$ its) (NN weight)))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN While)
+      (S
+        (VP (VBG growing)
+          (NP (DT a) (NN caterpillar))
+          (ADVP (RB frequently)))))
+    (VP (VBZ changes)
+      (NP (PRP$ its) (NN skin))
+      (SBAR (RB so) (IN that)
+        (S
+          (NP (PRP it))
+          (VP (VBZ covers)
+            (NP (PRP$ its) (VBG increasing) (NN size))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Further))
+    (NP (DT this) (NN caterpillar))
+    (VP (VBZ becomes)
+      (NP (DT a)
+        (ADJP (JJ light) (JJ pink))
+        (VBN colored) (NN transparent) (NN worm)
+        (SBAR
+          (WHPP (IN after)
+            (WHNP (WDT which)))
+          (S
+            (NP (PRP it))
+            (VP (VBZ starts)
+              (S
+                (VP (VBG losing)
+                  (NP (NN interest))
+                  (PP (IN in)
+                    (S
+                      (VP (VBG eating)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Every) (NN worm))
+    (VP (VBZ has)
+      (NP
+        (NP (CD two) (NNS glands))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBP are)
+              (VP (VBN located)
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN head) (NN portion))
+                    (PP (IN of)
+                      (NP (DT the) (NN worm)))))
+                (PP (IN below)
+                  (NP (PRP$ its) (NN jaw)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN silkworm))
+    (VP
+      (VP (VBZ compresses)
+        (NP (PDT both) (PRP$ its) (NN gland)))
+      (CC and)
+      (VP
+        (ADVP (RB continuously))
+        (VBZ makes)
+        (NP
+          (NP (CD two) (NNS fibers))
+          (PP (IN of)
+            (NP (NN silk))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN If)
+      (S
+        (NP (PRP we))
+        (VP (VBP see)
+          (NP (DT this) (JJ thin) (NN fiber))
+          (PP (IN through)
+            (NP (NN microscope)))
+          (ADVP (RB then)))))
+    (NP (PRP we))
+    (VP (MD will)
+      (VP (VB know)
+        (SBAR (IN that)
+          (S
+            (NP (DT this) (NN fiber))
+            (VP (VBZ is)
+              (VP (VBN made)
+                (PP (IN of)
+                  (NP (CD two) (NNS fibers)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (JJ thin) (NNS fibers))
+    (VP (VBP are)
+      (VP (VBN called)
+        (NP (NN brin))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (CD two) (JJ thin) (NN silk) (NNS brins))
+    (VP (VBP come)
+      (PRT (RP out))
+      (ADVP (RB coherently))
+      (PP (IN with)
+        (ADJP (JJ serene)))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (JJ spinning) (NN head))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ is)
+                (VP (VBN known)
+                  (PP (IN as)
+                    (NP (NN bave))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NN silk) (NNS fibers))
+    (VP (VBP are)
+      (NP
+        (NP (NN triangular))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBP have)
+              (VP (VBN organized)
+                (NP (JJ molecular) (NNS chains))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (NN form))
+                    (PP (IN of)
+                      (NP (JJ micro)
+                        (CC and)
+                        (JJ macro) (NNS fibrils)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT A) (JJ single) (NN silkworm))
+    (VP (VBZ makes)
+      (NP (NN silk))
+      (PP (IN with)
+        (NP
+          (NP (DT the) (NN speed))
+          (PP (IN of)
+            (NP (CD 46) (NN m))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (MD will)
+      (VP (VB be)
+        (ADJP (RBR more) (JJ appropriate)
+          (S
+            (VP (TO to)
+              (VP (VB say)
+                (SBAR (IN that)
+                  (S
+                    (SBAR (IN while)
+                      (S
+                        (VP (VBG making)
+                          (NP (DT a) (JJ complete) (NN fibril)))))
+                    (NP (PRP it))
+                    (VP (VBZ writes)
+                      (NP
+                        (NP (DT the)
+                          (ADJP (JJ digit)
+                            (NP (CD 8))
+                            (PP (IN for)
+                              (NP
+                                (QP (RB about) (CD 12))
+                                (NN lakh))))
+                          (NN number))
+                        (PP (IN of)
+                          (NP (NNS times)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN While)
+        (S
+          (VP (VBG making)
+            (NP (NNS fibers)))))
+      (NP (DT the) (NN worm))
+      (VP (VBZ loses)
+        (NP (PRP$ its) (NN weight))))
+    (CC and)
+    (S
+      (NP (DT the) (NN caterpillar) (NNS chrysalis))
+      (VP
+        (VP (VBZ turns)
+          (PP (IN into)
+            (NP
+              (NP (NN pupa))
+              (PP (IN inside)
+                (NP (DT the) (NN cocoon))))))
+        (CC and)
+        (VP (VBZ becomes)
+          (NP
+            (NP (DT a) (NN moth))
+            (PP (IN in)
+              (NP (CD two) (NNS weeks)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (RB Now) (IN in)
+      (S
+        (NP (DT this) (NN condition) (NN silkworm))
+        (VP
+          (VP (VBZ takes)
+            (PRT (RP out))
+            (NP (DT the) (JJ alkaline) (NN element)))
+          (CC and)
+          (VP (VBZ makes)))))
+    (VP (VBZ pores)
+      (PP (IN by)
+        (S
+          (VP (VBG dissolving)
+            (NP
+              (NP (DT some) (NN part))
+              (PP (IN of)
+                (NP (NN cocoon))))
+            (PP (IN with)
+              (NP
+                (NP (PRP$ its) (NN help))
+                (CC and)
+                (NP
+                  (NP (DT the) (NN worm))
+                  (VP (VBN come)
+                    (PRT (RP out))
+                    (PP (IN of)
+                      (NP (DT the) (NN cocoon)))
+                    (PP (IN through)
+                      (NP (DT this) (NN pore)))))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (PP (IN in)
+      (NP (JJ sericulture) (NN farm)))
+    (NP (PRP we))
+    (VP (VBP do) (RB not)
+      (VP (VB let)
+        (S
+          (NP (DT the) (NNS chrysalis))
+          (VP (VB come)
+            (PRT (RP out))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN silk) (NN worm))
+    (VP (VBZ is)
+      (VP
+        (VP (VBN kept)
+          (PP (IN in)
+            (NP (JJ light) (NN steam))))
+        (CC and)
+        (VP (VBN killed)
+          (PP (IN inside)
+            (NP (DT the) (NN cocoon)))
+          (SBAR (IN before)
+            (S
+              (NP (PRP it))
+              (VP (VBZ comes)
+                (PRT (RP out))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN process))
+    (VP (VBZ is)
+      (VP (VBN known)
+        (PP (IN as)
+          (NP (NN stoving)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (PP (IN In)
+        (NP (DT the) (JJ stoving) (NN process)))
+      (NP (NN silkworm))
+      (VP (VBZ is)
+        (VP (VBN killed)
+          (PP (IN inside)
+            (NP (DT the) (NN cocoon))))))
+    (CC but)
+    (S
+      (NP (DT the) (NN silk) (NN fiber)
+        (CC or)
+        (NN cocoon))
+      (VP (VBZ does) (RB n't)
+        (VP (VB get)
+          (VP (VBN harmed)
+            (PP (RB because) (IN of)
+              (NP (DT the) (NN steam)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN color)
+        (CC and)
+        (NN shape))
+      (PP (IN of)
+        (NP (NN cocoon))))
+    (VP (VBZ depends)
+      (PP (IN upon)
+        (NP
+          (NP (DT the) (NN diet)
+            (CC and)
+            (NN climate))
+          (PP (IN of)
+            (NP (DT the) (NN silkworm))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN cocoon))
+      (VP (VBN obtained)
+        (PP (IN from)
+          (NP
+            (NP (NN silkworm))
+            (PP (IN in)
+              (NP (NN china)))))))
+    (VP (VBP are)
+      (ADJP (RB mostly) (JJ white)
+        (PP (IN in)
+          (NP (NN color))))
+      (SBAR (IN because)
+        (S
+          (NP (DT the) (NN caterpillar))
+          (ADVP (RB there))
+          (VP (VBZ eats)
+            (NP (JJ white) (NN mulberry) (NNS leaves))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Japan)
+        (CC and)
+        (NNP Europe)))
+    (NP (DT the) (NN cocoon))
+    (VP (VBP are)
+      (NP
+        (NP (NN cream)
+          (CC and)
+          (NN light) (NN yellow))
+        (VP (VBN colored)
+          (SBAR (IN because)
+            (S
+              (NP (EX there))
+              (VP
+                (VP
+                  (ADVP
+                    (NP (DT the) (NN caterpillar))
+                    (RB there))
+                  (VBZ eats)
+                  (NP (NN castor) (NN oil) (NNS plants)))
+                (CC and)
+                (VP (VBZ absorbs)
+                  (NP
+                    (NP (DT an) (NN element))
+                    (VP (VBN named)
+                      (NP
+                        (NP (NN tannin))
+                        (PP (IN inside)
+                          (NP (PRP it)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Japan) (NN light)))
+    (NP (JJ green) (VBN colored) (NNS cocoon))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (VP (VBN grown)
+        (NP
+          (SBAR (WP$ whose)
+            (S
+              (NP (NNS caterpillars))
+              (VP (VBP eat)
+                (NP (JJ green) (NNS leaves))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Apart))
+      (PP (IN from)
+        (NP
+          (NP (JJ white) (NN cocoon))
+          (, ,)
+          (NP
+            (ADJP (JJ gray)
+              (CC and)
+              (JJ light))
+            (JJ brown) (VBN colored) (NNS cocoon)))))
+    (VP (VBP are)
+      (VP (VBN found)
+        (PP (IN in)
+          (NP (NNP India)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN In) (NN order)
+        (S
+          (VP (TO to)
+            (VP (VB differentiate)
+              (PP (IN between)
+                (NP
+                  (NP (DT the) (NN luster)
+                    (CC and)
+                    (NN softness))
+                  (PP (IN of)
+                    (NP (NNS fibers)))))))))
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ essential)
+          (S
+            (VP (TO to)
+              (VP (VB know)
+                (SBAR (IN that)
+                  (S
+                    (NP (DT every) (NN fiber))
+                    (VP (VBZ is)
+                      (VP (VBN made)
+                        (PP (IN of)
+                          (NP (CD two) (JJ thin) (NNS brins)))))))))))))
+    (CC and)
+    (S
+      (NP (DT these) (NNS brins))
+      (VP (VBP are)
+        (VP (VBN joined)
+          (PP (IN with)
+            (NP (NN saricin) (NN glue))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Thus))
+      (NP (PRP we))
+      (VP (MD can)
+        (VP (VB say)
+          (SBAR (IN that)
+            (S
+              (NP (DT every) (NN fiber))
+              (VP (VBZ is)
+                (ADVP (RB primarily))
+                (VP (VBN made)
+                  (PP (IN of)
+                    (NP (CD two) (NN chemical) (NNS elements))))))))))
+    (: :)
+    (S
+      (S
+        (NP (DT The) (JJ first) (NN element))
+        (VP (VBZ is)
+          (ADJP (JJ fibrin))
+          (, ,)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN form))
+              (PP (IN of)
+                (NP (NN liquid)))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP
+                    (VP (VBZ comes)
+                      (PRT (RP out))
+                      (PP (IN of)
+                        (NP (NN spinrat))))
+                    (CC and)
+                    (VP (VBP get)
+                      (ADVP (RB dried))
+                      (PP (IN after)
+                        (S
+                          (VP (VBG coming)
+                            (PP (IN in)
+                              (NP (NN contact)))
+                            (PP (IN with)
+                              (NP (NN air))))))))))))))
+      (CC and)
+      (S
+        (NP (DT the) (JJ other))
+        (VP (VBZ is)
+          (NP (NN saricin) (NN glue)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT Every) (NN thread))
+    (VP (VBZ contains)
+      (NP
+        (NP
+          (ADJP
+            (QP (RB approximately) (CD 75))
+            (NN %))
+          (NN fibrin))
+        (CC and)
+        (NP
+          (ADJP (CD 25) (NN %))
+          (NN saricin))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD Four) (NNS kinds))
+      (PP (IN of)
+        (NP (NN silk))))
+    (VP (VBP are)
+      (VP (VBN produced)
+        (PP (IN in)
+          (NP (PRP$ our) (NN country) (, ,) (NN mulberry) (NN silk) (, ,) (NN tasar) (, ,) (NNS aeri)
+            (CC and)
+            (NN moonga)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP India))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJ only) (NN country))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (JJ golden) (JJ yellow) (JJ colored) (NN munga) (NNS silk))
+            (VP (VBZ is)
+              (VP (VBN produced)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Mulberry) (NNS silkworms))
+    (VP (VBP are)
+      (VP (VBN reared)
+        (PP (IN at)
+          (NP
+            (NP (JJ many) (NNS places))
+            (PP (IN in)
+              (NP
+                (NP (NNP India))
+                (PP (JJ such) (IN as)
+                  (NP
+                    (NP (JJ hilly) (NNS regions))
+                    (PP (IN of)
+                      (NP (NNP Assam) (, ,) (NNP Bengal) (, ,) (NNP Konnur) (, ,) (NNP Tamilnadu) (, ,) (NNP Dehradun)
+                        (CC and)
+                        (NNP Himachal) (NNP Pradesh)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP UniVoltine)
+      (CC and)
+      (NNP Bivoltine))
+    (VP (VBP silkworm)
+      (PP (IN in)
+        (NP
+          (NP (NNP Kashmir))
+          (, ,)
+          (NP
+            (NP (JJ good) (NN quality) (NNP Multivoltine) (NNP silkworm))
+            (PP (IN in)
+              (NP (NNP Bengal)
+                (CC and)
+                (NNP Karnataka)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Our) (NN country))
+      (VP (VBZ produces)
+        (NP
+          (NP
+            (QP (RB approximately) (CD 90))
+            (NN %))
+          (ADJP (RB mulberry) (JJ silk)))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN rest))
+        (PP (IN of)
+          (NP (DT the)
+            (ADJP (CD 10) (NN %)))))
+      (VP (VBZ is)
+        (NP (JJ wild) (NN silk) (NN tasar) (, ,) (NN aeri)
+          (CC and)
+          (NN moonga))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Since)
+      (SBAR
+        (WHADVP (WRB when))
+        (S
+          (NP (NN silk) (NN board))
+          (VP (VBZ has)
+            (VP (VBN been)
+              (VP (VBN established)
+                (PP (IN in)
+                  (NP (NNP India)))))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP
+          (NP (JJ significant) (NN progress))
+          (PP (IN in)
+            (NP
+              (NP (JJ scientific) (NNS methods))
+              (PP (IN of)
+                (NP (NN silk) (NN production))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN silk) (NNS worms))
+      (SBAR
+        (WHPP (IN from)
+          (WHNP (WDT which)))
+        (S
+          (NP (NN tasar) (NN silk))
+          (VP (VBZ is)
+            (VP (VBN obtained))))))
+    (VP (VBP are)
+      (VP (VBN produced)
+        (PP (IN in)
+          (NP
+            (NP
+              (ADJP (JJ warm)
+                (CC and)
+                (JJ temperate))
+              (JJ climatic) (NNS regions))
+            (PP (IN of)
+              (NP (DT the) (NN country)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS cocoons))
+    (VP (VBP are)
+      (ADVP (RB mostly))
+      (ADJP (JJ oval) (, ,) (JJ tough)
+        (CC and)
+        (NN brown) (NN colored)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN tasar) (NN silk) (NN caterpillar))
+      (VP (VBZ eats)
+        (NP (NN oak) (NN tree) (NNS leaves))
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN place))
+            (PP (IN of)
+              (NP (JJ mulberry) (NNS leaves)))))))
+    (, ,)
+    (NP
+      (NP (RB possibly) (DT the) (JJ brown) (NN color))
+      (PP (IN of)
+        (NP (PRP$ its) (NN cocoon))))
+    (VP (VBZ is)
+      (PP (RB because) (IN of)
+        (NP
+          (NP (NN tannin) (NN absorption))
+          (PP (IN of)
+            (NP (NNS leaves))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP One))
+      (VP
+        (VP (VBZ does))
+        (RB n't)
+        (VP (VBZ needs)
+          (S
+            (VP (TO to)
+              (VP (VB kill)
+                (NP
+                  (NP (DT the) (NN tasar) (NN silkworm))
+                  (PP (IN inside)
+                    (NP (NN cocoon))))))))))
+    (CC and)
+    (S
+      (NP (JJ long) (NNS fibers))
+      (VP (VBP are)
+        (ADVP (RB easily))
+        (ADJP (JJ available))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (S
+      (NP (DT the) (NN tasar) (NNS fibers))
+      (VP (VBP are)
+        (ADJP (JJ thick)
+          (CC and)
+          (JJ tough))
+        (PP (IN as)
+          (PP (VBN compared)
+            (PP (TO to)
+              (NP (JJ mulberry) (NN silk) (NNS fibers)))))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN amount))
+        (PP (IN of)
+          (NP (NN saricin))))
+      (VP (VBD found)
+        (SBAR (IN in)
+          (S
+            (NP (PRP them))
+            (VP (VBZ is)
+              (ADVP (RB also))
+              (NP
+                (QP (JJR more) (IN than) (CD moonga))
+                (CC and)
+                (NN aeri) (NN silk)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ golden) (VBN colored) (NN silk))
+    (VP (VBZ is)
+      (VP (VBN obtained)
+        (PP (IN from)
+          (NP
+            (NP (JJ Multivoltine) (NN class))
+            (PP (IN of)
+              (NP (NNS silkworms)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN silkworm))
+    (VP (VBZ is)
+      (ADVP (RB particularly))
+      (VP (VBN found)
+        (PP (IN in)
+          (NP (NNP Assam)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN cocoon))
+        (PP (IN of)
+          (NP (DT this) (NN silkworm))))
+      (VP (VBZ is)
+        (ADJP (JJ closed))))
+    (CC and)
+    (S
+      (NP (DT the) (NN shell))
+      (VP (VBZ is)
+        (ADJP (RB very) (JJ thin))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN weight))
+      (PP (IN of)
+        (NP (DT a) (JJ single) (NN cocoon))))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (QP (RB approximately) (CD 6.3))
+          (NNS grams))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (DT the) (JJ thin) (NN layer))
+            (VP (VBZ weighs)
+              (NP
+                (QP (RB just) (CD 0.5))
+                (NNS grams)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a)
+          (ADJP (JJ white)
+            (CC or)
+            (JJ red))
+          (VBN colored) (NN silk))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (VP (VBN obtained)
+                (PP (IN from)
+                  (NP
+                    (NP (NNS silkworms))
+                    (PP (IN of)
+                      (NP (JJ multivoltine) (NN class)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Such) (NNS worms))
+    (VP (VBP are)
+      (VP (VBN reared)
+        (PP (IN in)
+          (NP (NNP Assam) (, ,) (NNP Bihar) (, ,) (NNP Bengal) (, ,) (NNP Manipur) (, ,) (NNP Orissa)
+            (CC and)
+            (NNP Tripura)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS cocoons))
+      (PP (IN of)
+        (NP (JJ such) (NNS worms))))
+    (VP (VBP are)
+      (ADJP (RB somewhat) (JJ long)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN weight))
+      (PP (IN of)
+        (NP (DT a) (NN cocoon))))
+    (VP (VBZ is)
+      (NP
+        (QP (RB just) (CD 3))
+        (NNS grams)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN specialty))
+      (PP (IN of)
+        (NP (JJ such) (NNS cocoons))))
+    (VP (VBZ is)
+      (SBAR (IN that)
+        (S
+          (NP (PRP they))
+          (VP (VBP change)
+            (NP (NNS colors))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Because)
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ open) (NN mouth))
+          (PP (IN of)
+            (NP (DT the) (NNP Aeri) (NN silk))))))
+    (NP (PRP they))
+    (VP (MD can) (RB not)
+      (VP (VB be)
+        (VP (VBN reeled))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN process))
+      (PP (IN of)
+        (S
+          (VP (VBG extracting)
+            (NP (NNS fibers))
+            (PP (IN from)
+              (NP (NN cocoon)))))))
+    (VP (VBZ is)
+      (VP (VBN called)
+        (S
+          (VP (VBG reeling)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN process))
+    (VP (VBZ requires)
+      (NP
+        (NP (JJ sound) (NN knowledge))
+        (PP (IN of)
+          (NP
+            (NP (NN reeler))
+            (CC and)
+            (NP (DT a)
+              (ADJP (JJ good) (VBG reeling))
+              (NN machine)))))
+      (SBAR (RB so) (IN that)
+        (S
+          (NP
+            (NP (JJ adequate) (NN amount))
+            (PP (IN of)
+              (NP (NN silk))))
+          (VP (VBZ is)
+            (VP (VBN extracted)
+              (PP (IN from)
+                (NP (DT the) (NN cocoon))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Since)
+      (NP
+        (NP (DT the) (NN fiber))
+        (VP (VBN extracted)
+          (PP (IN from)
+            (NP (DT a) (JJ single) (NN cocoon)))
+          (SBAR
+            (SBAR
+              (S
+                (VP (VBZ is)
+                  (ADJP (RB very) (JJ thin)))))
+            (CC and)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ difficult)
+                    (S
+                      (VP (TO to)
+                        (VP (VB reel)
+                          (ADVP (RB therefore)))))))))))))
+    (NP
+      (NP (DT the) (NNS fibers))
+      (PP (IN of)
+        (NP (CD 3-10) (NNS cocoons))))
+    (VP (VBP are)
+      (ADVP (RB together))
+      (VP (VBN reeled)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP
+        (NP (NN example))
+        (PP (IN in)
+          (NP (NN order)))
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP
+                (NP (DT a) (JJ multifilament) (NN yarn))
+                (PP (IN of)
+                  (NP (CD 20-22) (NN danier)))))))))
+    (NP (CD 7) (NNS cocoons))
+    (VP (VBP are)
+      (ADJP (JJ sufficient)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ adverse) (NN effect))
+        (PP (IN of)
+          (NP (NN globalization)
+            (CC and)
+            (NN world) (NN trade) (NNS organizations)))
+        (PP (IN on)
+          (NP
+            (NP (DT the) (NNS farmers))
+            (PP (IN of)
+              (NP (VBG developing) (NNS countries))))))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (NP
+            (NP (DT a) (NN subject))
+            (PP (IN of)
+              (NP (NN concern))))
+          (PP (IN in)
+            (NP (JJ recent) (NNS years))))))
+    (, ,)
+    (NP
+      (NP (DT the) (NNS reasons))
+      (PP (IN of)
+        (NP
+          (NP (NN concern))
+          (PP (VBG regarding)
+            (NP
+              (NP (RB particularly) (DT the) (NN cotton))
+              (VP (VBG producing)
+                (NP (NNS farmers))))))))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ clear)))
+    (. .)))

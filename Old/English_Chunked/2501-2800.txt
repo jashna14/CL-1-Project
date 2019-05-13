@@ -1,0 +1,5672 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN reason))
+      (PP (IN behind)
+        (NP
+          (NP (JJ negligible) (NN participation))
+          (PP (IN of)
+            (NP
+              (NP (NNP India))
+              (PP (IN in)
+                (NP
+                  (NP (NN export))
+                  (PP (IN of)
+                    (NP (JJ medicinal) (NN plant))))))))))
+    (VP (VBZ is)
+      (NP
+        (NP (NN demand))
+        (PP (IN for)
+          (NP (JJS best) (NN quality))))
+      (PP (IN by)
+        (NP (JJ foreign) (NNS traders))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS farmers))
+    (ADVP (RB here))
+    (VP (VBP are) (RB not)
+      (ADJP (JJ able)
+        (S
+          (VP (TO to)
+            (VP (VB fulfill)
+              (NP (DT this) (NN demand)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN reason))
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (DT the) (JJ Indian) (NNS farmers))
+          (VP (VB adopt)
+            (NP (JJ traditional) (NN farming))
+            (PP (IN over)
+              (NP (JJ medicinal) (NN plant) (NN cultivation)))))))
+    (VP (VBZ is)
+      (NP (DT a) (NN matter)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN considered)
+                (PP (IN at)
+                  (NP (JJ national) (NN level)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN price))
+      (PP (IN of)
+        (NP (JJ medicinal) (NNS plants))))
+    (VP (VBP are)
+      (ADVP (RB mainly))
+      (VP (VBN concerned)
+        (PP (IN with)
+          (NP (NN quality)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP keep)
+      (S
+        (VP (VBG fluctuating))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS farmers))
+    (VP (VBZ does) (RB not)
+      (VP (VB want)
+        (S
+          (VP (TO to)
+            (VP (VB adopt)
+              (NP (JJ such) (JJ strange) (NN cultivation))
+              (SBAR (IN unless)
+                (S
+                  (NP (PRP he))
+                  (VP (VBZ gets)
+                    (NP (JJ adequate) (NN assurance))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN price))
+      (PP (IN of)
+        (NP
+          (NP (NNS plants)
+            (CC and)
+            (NNS herbs))
+          (VP (VBN collected)
+            (PP (IN in)
+              (NP (NNS forests)))))))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (JJR less))
+        (PP (IN than)
+          (NP
+            (NP (DT the) (NNS plants))
+            (VP (VBN grown)
+              (PP (IN through)
+                (NP (NN cultivation))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Like)
+      (NP (NNS fruits)
+        (CC and)
+        (NNS vegetables)))
+    (NP (NNS herbs))
+    (VP (VBP are) (RB not)
+      (VP
+        (ADVP (RB easily))
+        (VBN sold)
+        (PP (IN in)
+          (NP (JJ local) (NN market)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS farmers))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB depend)
+            (PP (IN on)
+              (NP
+                (NP (DT the) (NN mercy))
+                (PP (IN of)
+                  (NP (JJ local) (NN herb) (NNS traders)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Several) (JJ medicinal) (NNS plants))
+    (VP (VBP are)
+      (NP
+        (NP (NN industry))
+        (VP (VBN based))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Amla) (, ,) (NNP Ashok) (, ,) (NNP Bilwa) (, ,) (NNP Neem) (FW etc.) (NNP trees))
+    (VP (VBP take)
+      (NP (JJR longer) (NN time)
+        (S
+          (VP (TO to)
+            (VP (VB reach)
+              (NP (NN production) (NN level)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ is)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP (NNS farmers))
+          (VP (VBZ neglect)
+            (NP (PRP them))))))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBG Identifying)
+      (NP (JJ correct) (NN plant))
+      (PP (IN with)
+        (NP
+          (NP (JJ textual) (NN description))
+          (PP (IN in)
+            (NP (JJ classical) (NNS texts))))))
+    (VP (VBZ is))
+    (NP
+      (NP (DT a) (JJ difficult) (NN task))
+      (, ,)
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (NP (DT an) (JJ illiterate) (NN farmer))
+          (VP (MD can) (RB not)
+            (VP (VB do))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (NN reason))
+        (SBAR
+          (S
+            (NP (NNS drugs))
+            (VP (VBP are)
+              (VP (VBN adulterated)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Negligence))
+      (PP (IN of)
+        (NP (NN government) (NN machinery))))
+    (VP (VBZ is)
+      (NP (DT an) (JJ important) (NN issue)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ is)
+      (SBAR
+        (WHADVP (WRB why))
+        (S
+          (NP
+            (NP (DT the) (NN cultivation))
+            (PP (IN of)
+              (NP (JJ medicinal) (NNS plants))))
+          (VP (VBP do) (RB not)
+            (VP (VB get)
+              (NP (JJ sufficient) (NN encouragement)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Several) (JJ medicinal) (NNS plants))
+    (VP (VBP are) (RB not)
+      (ADJP (RB properly) (VBN classified)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN cultivation))
+      (PP (IN of)
+        (NP (JJ fragrant) (NNS flowers))))
+    (VP (VBP require)
+      (NP (JJR more) (NN land))
+      (SBAR (IN because)
+        (S
+          (NP (DT those) (NNS plants))
+          (VP (VBP contain)
+            (NP
+              (ADJP
+                (NP (CD 0.5) (NN %))
+                (NP (CD -1.5) (NN %)))
+              (NN oil))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Government) (NN machinery))
+    (VP (VBZ has)
+      (S
+        (VP (TO to)
+          (VP (VB function)
+            (S
+              (VP (TO to)
+                (VP (VB encourage)
+                  (NP
+                    (NP (DT the) (NN cultivation))
+                    (PP (IN of)
+                      (NP
+                        (ADJP (JJ medicinal)
+                          (CC and)
+                          (JJ fragrant))
+                        (NNS flowers)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT this)))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (JJ essential)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (NN agriculture) (NN policy)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (RB extremely) (JJ important)
+        (PP (IN for)
+          (NP (DT the) (JJ national) (JJ medicinal) (NN plant) (NN council))))
+      (S
+        (VP (TO to)
+          (VP (VB encourage)
+            (NP (DT the) (NNS farmers))
+            (PP (IN for)
+              (NP
+                (NP (DT the) (NN cultivation))
+                (PP (IN of)
+                  (NP (DT these) (NNS plants)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (JJ essential)
+        (S
+          (VP (TO to)
+            (VP (VB train)
+              (NP (DT the) (NNS farmers))
+              (PP (IN about)
+                (NP
+                  (NP (DT the) (NN cultivation))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS herbs))
+                      (, ,)
+                      (NP (NN conservation))
+                      (, ,)
+                      (NP (NN market) (NN system))
+                      (, ,)
+                      (NP
+                        (NP (NNS parameters))
+                        (PP (IN of)
+                          (NP (JJ quality) (FW etc.)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP (DT no) (NN need)
+        (S
+          (VP (TO to)
+            (VP (VB cultivate)
+              (NP
+                (NP (JJ several) (JJ medicinal) (NNS plants))
+                (SBAR
+                  (WHNP (WDT which))
+                  (S
+                    (VP (VBP grow)
+                      (PP (IN in)
+                        (NP
+                          (NP (NNS forests))
+                          (CC and)
+                          (NP (JJ infertile) (NN land)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ easy))
+      (S
+        (VP (TO to)
+          (VP (VB collect)
+            (NP (PRP them))
+            (PP (IN from)
+              (NP (JJ barren) (NN land)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP grow)
+      (PP (IN in)
+        (NP
+          (NP (JJ immoderate) (NN quantity))
+          (PP (IN in)
+            (NP (NNS forests))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT no) (NN possibility))
+        (PP (IN of)
+          (NP (PRP$ their) (NN extinction)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ essential)
+        (PP (IN for)
+          (NP (DT the) (NN forest) (NNS dwellers))))
+      (S
+        (VP (VBG collecting)
+          (S
+            (NP
+              (NP (DT those) (JJ medicinal) (NNS plants))
+              (PP (IN from)
+                (NP (DT the) (NNS forests))))
+            (VP
+              (VP (VB fix)
+                (NP (JJ minimum) (NN price))
+                (PP (IN for)
+                  (NP (DT the) (NNS plants))))
+              (CC and)
+              (VP (VB provide)
+                (NP (PRP them))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ agricultural) (NNP University))
+    (VP (MD should)
+      (VP (VB do)
+        (NP
+          (NP (DT the) (JJ significant) (NN job))
+          (PP (IN of)
+            (S
+              (ADVP (RB correctly))
+              (VP (VBG identifying)
+                (NP
+                  (NP (JJ many) (JJ such) (NNS plants))
+                  (SBAR
+                    (WHNP (WDT that))
+                    (S
+                      (VP (VBP have)
+                        (VP (VBN been)
+                          (VP (VBN described)
+                            (PP (IN in)
+                              (NP (JJ Indian) (JJ classical) (NNS texts)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (NN debate))
+        (PP (IN among)
+          (NP
+            (NP (DT the) (NNS scholars))
+            (PP (VBG regarding)
+              (NP
+                (NP (DT the) (JJ correct) (NN identification))
+                (PP (IN of)
+                  (NP (DT the) (JJ significant) (NN plant) (NN Som)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Ban))
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN use))
+          (PP (IN of)
+            (NP (NN chemical))))))
+    (VP (VBZ insecticides)
+      (SBAR (IN while)
+        (S
+          (S
+            (S
+              (VP (VBG cultivating)
+                (NP
+                  (ADJP (JJ medicinal)
+                    (CC and)
+                    (JJ fragrant))
+                  (NNS plants))))
+            (VP (VBZ is)
+              (ADJP (JJ essential))
+              (SBAR (RB so) (IN that)
+                (S
+                  (NP (PRP they))
+                  (VP (VBP are)
+                    (VP (VBN exported)
+                      (ADVP (RB overseas))))))))
+          (CC and)
+          (S
+            (NP (PRP they))
+            (VP (VBP fetch)
+              (NP (JJR more) (NN money)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ essential)
+        (PP (IN for)
+          (NP (DT the) (JJ various) (NNS universities))))
+      (S
+        (VP (TO to)
+          (VP (VB organize)
+            (NP (NN training) (NNS camps))
+            (PP (IN for)
+              (NP (JJ progressive) (NNS farmers)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN dream))
+      (PP (IN of)
+        (NP (PRP$ our) (JJ former) (NNP President) (NNP Shri) (NNP Abdul) (NNP Kalam)))
+      (S
+        (VP (TO to)
+          (VP (VB list)
+            (NP
+              (NP (NNP India))
+              (PP (IN among)
+                (NP
+                  (NP (DT the) (CD five) (JJ super) (NNS powers))
+                  (PP (IN of)
+                    (NP (DT the) (NN world))))))
+            (PP (IN by)
+              (NP (CD 2020)))))))
+    (VP (VBZ does) (RB not)
+      (VP (VB seem)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (ADJP (JJ possible)
+                (PP (IN with)
+                  (NP (DT the) (JJ second) (JJ green) (NN revolution)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Perfumed) (NNS oils))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN obtained)
+          (PP
+            (PP (IN from)
+              (NP
+                (NP (DT any) (NN part))
+                (PP (IN of)
+                  (NP (DT the) (NN plant)))))
+            (CC or)
+            (PP (IN from)
+              (NP (DT the) (JJ entire) (NN plant)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Oil))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN obtained)
+          (PP (IN from)
+            (NP
+              (NP (DT the) (JJ entire) (NN body))
+              (PP (IN of)
+                (NP (JJ konifery) (NNS plants))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Perfumed) (NNS oils))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN obtained)
+          (PP (IN from)
+            (NP
+              (NP (DT the) (NN root))
+              (, ,)
+              (NP (NN stem))
+              (, ,)
+              (NP (NNS leaves))
+              (, ,)
+              (NP (NNS flowers))
+              (, ,)
+              (NP (NNS seeds))
+              (, ,)
+              (NP (NNS fruits))
+              (CC or)
+              (NP
+                (NP (DT any) (NN part))
+                (PP (IN of)
+                  (NP (DT the) (NN flower)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Perfumed) (NNS oils))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN obtained)
+          (PP (IN from)
+            (NP
+              (NP (DT the) (NN root)
+                (CC or)
+                (NN rhizome))
+              (PP (IN of)
+                (NP (NN turmeric)
+                  (CC and)
+                  (NN ginger) (NN plant))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Efforts))
+    (VP (VBP are)
+      (VP (VBG being)
+        (VP (VBN made)
+          (S
+            (VP (TO to)
+              (VP (VB obtain)
+                (NP (NN oil))
+                (PP (IN from)
+                  (NP
+                    (NP (DT the) (NNS roots))
+                    (PP (IN of)
+                      (NP (JJ curcuma) (NN aromatica)
+                        (CC and)
+                        (NN curcuma) (NN zedoaria)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN powder))
+      (VP (VBN made)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NNS roots))
+            (PP (IN of)
+              (NP (DT these) (NNS plants)))))))
+    (VP (VBP are)
+      (VP (VBN used)
+        (PP (IN in)
+          (NP (NNS medicines)
+            (CC and)
+            (NNS cosmetics)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT some) (NNS oils))
+    (VP (VBP are)
+      (VP (VBN obtained)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NNS seeds))
+            (CC and)
+            (NP (JJ dry) (NNS flowers))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Oil))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (VP (VBN extracted)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NNS leaves))
+            (PP (IN of)
+              (NP (NN coriander)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Oil))
+    (VP (VBZ is)
+      (VP (VBN obtained)
+        (PP (IN from)
+          (NP
+            (NP (DT the) (NNS leaves) (, ,) (NNS flowers)
+              (CC and)
+              (NN immature) (NNS fruits))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNS trees))
+                (PP (IN of)
+                  (NP (JJ lemon) (NNS species)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (JJ chemical) (NN composition))
+        (PP (IN of)
+          (NP (JJ perfumed) (NNS oils))))
+      (VP (VBP are)
+        (ADJP (RB completely) (JJ different)
+          (PP (IN from)
+            (NP (NN vegetable) (NNS oils)
+              (CC and)
+              (NN fatty) (NNS oils))))))
+    (CC but)
+    (S
+      (NP
+        (NP (PDT both) (DT the) (NNS kinds))
+        (PP (IN of)
+          (NP (NNS oils))))
+      (VP (VBP are)
+        (VP (VBN obtained)
+          (PP (IN from)
+            (NP (NNS plants)))
+          (ADVP (RB only)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Compounds))
+      (PP (IN of)
+        (NP (NN turpentine) (, ,) (NN alcohol) (, ,) (NN aldehyde) (, ,) (NN ketone) (, ,) (NN ester) (, ,) (NN phenol) (, ,) (NN alkaline) (, ,) (NN nitrogen)
+          (CC and)
+          (NN sulfur))))
+    (VP (VBP are)
+      (VP (VBN found)
+        (PP (IN in)
+          (NP (JJ perfumed) (NNS oils)))
+        (SBAR (IN while)
+          (S
+            (NP (JJ fatty) (NNS oils))
+            (VP (VBP contain)
+              (NP
+                (NP (NNS glycerites))
+                (PP (IN of)
+                  (NP (JJ high) (NN fatty) (NNS acids)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (JJ various) (NNS uses))
+        (PP (IN of)
+          (NP
+            (NP (JJ perfumed) (NNS oils))
+            (SBAR
+              (WHNP
+                (NP (DT some))
+                (PP (IN of)
+                  (NP (DT the) (JJ major) (NNS ones))))
+              (S
+                (VP (VBP are) (: :)
+                  (NP
+                    (NP (NNS soaps))
+                    (, ,)
+                    (NP (NNS cosmetics))
+                    (, ,)
+                    (NP (NNS perfumes))
+                    (, ,)
+                    (NP (NNS medicines))
+                    (, ,)
+                    (NP (NN biscuit) (NN industry))
+                    (, ,)
+                    (NP (JJ aromatic) (NN tobacco))))))
+            (, ,)
+            (VP (NN juice)
+              (NP (FW etc.)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN With)
+      (NP (JJ new) (NNS researches)))
+    (NP (PRP it))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN found)
+          (SBAR (IN that)
+            (S
+              (NP (NNS lemongrass))
+              (VP (VBZ is)
+                (VP (VBN used)
+                  (PP (IN in)
+                    (NP
+                      (NP (DT the) (NN preparation))
+                      (PP (IN of)
+                        (NP
+                          (NP (NNP vitamin) (POS '))
+                          (NX (NNP A) (POS ')))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (VP (VBN used)
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP
+                (NP
+                  (NP (NNS perfumes))
+                  (, ,)
+                  (NP (NNS scents)))
+                (X (NN etc.))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN art))
+      (PP (IN of)
+        (S
+          (VP (VBG making)
+            (NP (NN scent)
+              (CC or)
+              (NNS perfumes))))))
+    (VP (VBZ is)
+      (ADJP (RB quite) (JJ ancient)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (JJ Perfumed) (NNS oils))
+        (CC or)
+        (NP (NN perfume) (VBN related) (NN thought)))
+      (CC and)
+      (NP (DT the) (NN technique)
+        (S
+          (VP (TO to)
+            (VP (VB obtain)
+              (NP (PRP them)))))))
+    (VP (VBD was)
+      (ADVP (RB first))
+      (VP (VBN developed)
+        (PP (IN in)
+          (NP
+            (NP (JJ eastern) (NNS countries))
+            (PP (JJ such) (IN as)
+              (NP (NNP China) (, ,) (NNP Egypt) (, ,) (NNP France)
+                (CC and)
+                (NNP India)))))
+        (SBAR
+          (WHADVP (WRB where))
+          (S
+            (NP (PRP they))
+            (VP (VBD were)
+              (VP (VBN prepared)
+                (PP (IN from)
+                  (NP
+                    (NP (JJ various) (NNS parts))
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN plant))
+                        (PP (JJ such) (IN as)
+                          (NP (NN wood) (, ,) (NN plant)
+                            (CC and)
+                            (NNS flowers)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Ancient) (NNPS Chinese) (NN traveler) (NNP Fahwan))
+    (VP (VBZ has)
+      (VP (VBN written)
+        (PP (IN in)
+          (NP (PRP$ his) (NN memory) (NNS cards)))
+        (SBAR (IN that)
+          (S
+            (NP (NNP India))
+            (VP (VBZ is)
+              (NP
+                (NP (DT a) (NN country))
+                (PP (IN of)
+                  (NP (JJ perfumed) (NNS plants) (, ,) (NNS fruits) (, ,) (NNS raisins)
+                    (CC and)
+                    (NN grass)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN By)
+      (S
+        (VP (VBG studying)
+          (NP
+            (NP (DT the) (NN art))
+            (PP (IN of)
+              (S
+                (VP (VBG preserving)
+                  (NP (JJ dead) (NNS bodies))
+                  (PP (IN in)
+                    (NP (NNP Egypt))))))))))
+    (NP (PRP one))
+    (VP (VBZ gets)
+      (S
+        (VP (TO to)
+          (VP (VB know)
+            (SBAR (IN that)
+              (S
+                (NP (NNP Egyptians))
+                (VP (VBD knew)
+                  (NP
+                    (NP (DT the) (NN art))
+                    (PP (IN of)
+                      (S
+                        (VP (VBG obtaining)
+                          (S
+                            (VP (VBG preserving)
+                              (CC and)
+                              (VBG perfumed)
+                              (NP (NNS oils)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Farsians))
+    (VP (VBD were)
+      (NP (DT the) (JJ first)
+        (S
+          (VP (TO to)
+            (VP (VB obtain)
+              (NP (JJ perfumed) (NN oil))
+              (PP (IN from)
+                (S
+                  (VP (NN rose)
+                    (NP (NNS flowers))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Imn) (NNP Rawalin))
+      (PRN (-LRB- -LRB-)
+        (NP (NNP 810-617) (NNP BC))
+        (-RRB- -RRB-))
+      (SBAR
+        (WHNP (WP who))
+        (S
+          (VP (VBD was)
+            (NP
+              (NP (DT the) (NN emperor))
+              (PP (IN of)
+                (NP
+                  (NP (NNP Faristan))
+                  (VP (VBN used)
+                    (S
+                      (VP (TO to)
+                        (VP (VB submit)
+                          (NP
+                            (NP (CD 30,000) (NNS bottles))
+                            (PP (IN of))))))))))))))
+    (VP (VBD rose)
+      (NP (NN water))
+      (NP (DT every) (NN year))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN treasure))
+          (PP (IN of)
+            (NP (NNP Bagdad)))))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN form))
+          (PP (IN of)
+            (NP (NN tax))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP India)))
+    (NP (JJ perfumed) (NNS elements))
+    (VP (VBP are)
+      (VP (VBN used)
+        (PP (IN during)
+          (NP
+            (NP (JJ religious) (NNS purposes))
+            (PP (IN in)
+              (NP (NNS sutras)
+                (CC and)
+                (NNS vedas)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Buddhists))
+    (VP (VBD used)
+      (S
+        (VP (TO to)
+          (VP (VB bathe)
+            (NP
+              (NP (DT the) (NN statue))
+              (PP (IN of)
+                (NP (PRP$ their) (NN god))))
+            (PP (IN with)
+              (NP (JJ perfumed) (NN water)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (JJ Vedic) (NN period) (NN sandal)))
+    (, ,)
+    (NP (NN camphor) (, ,) (NN saffron)
+      (CC and)
+      (NN musk))
+    (VP (VBD was)
+      (VP (VBN used)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN During)
+      (S
+        (VP (VBG Gupta)
+          (S
+            (NP
+              (NP (NN period))
+              (PRN (-LRB- -LRB-)
+                (NP (NNP 300-400) (NNP BC))
+                (-RRB- -RRB-))
+              (NP (JJ perfumed) (NNS cosmetics))
+              (, ,)
+              (NP (JJ perfumed) (NN hair) (NN oil))
+              (, ,))
+            (ADJP (JJ kajal))))))
+    (, ,)
+    (NP (NN cream) (NNS etc.))
+    (VP (VBD were)
+      (VP (VBN used)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Information))
+      (PP (VBG regarding)
+        (NP (JJ Indian) (JJ perfumed) (NNS elements))))
+    (VP (VBZ exists)
+      (PP (IN in)
+        (NP
+          (NP (NNP Pali))
+          (CC and)
+          (NP (JJ Islamic) (NNS books)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Mughal) (NNS rulers))
+    (VP (VBD had)
+      (VP (VBN helped)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN development))
+            (PP (IN of)
+              (NP
+                (NP (JJ perfumed) (NNS elements))
+                (PP (IN in)
+                  (NP (NNP India)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Abul) (NNP Fazal))
+      (PP (IN in)
+        (NP
+          (NP (DT the) (NN book) (POS '))
+          (NNP Ainey) (NNP Akbari) ('' '))))
+    (VP (VBZ writes)
+      (SBAR (IN that)
+        (S
+          (S
+            (VP (VBG Akbar)
+              (NP (DT the) (JJ great))))
+          (VP (VBD was)
+            (ADJP (RB extremely) (JJ fond))
+            (PP (IN of)
+              (NP (NNS perfumes)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN palace))
+    (ADVP (RB always))
+    (VP (VBD remained)
+      (SBAR
+        (S
+          (NP
+            (NP (NN fragrant))
+            (PP (IN with)
+              (NP (JJ perfumed) (NNS flowers)
+                (CC and)
+                (NN incense))))
+          (VP (VBZ sticks)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP Uttar) (NNP Pradesh)))
+    (NP (JJ perfumed) (NNS elements))
+    (VP (VBD were)
+      (VP (VBN produced)
+        (PP (IN in)
+          (NP (NNP Kannauj) (, ,) (NNP Jaunpur)
+            (CC and)
+            (NNP Gajipur)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN perfume))
+      (SBAR
+        (WHPP (IN of)
+          (WHNP (WDT which)))
+        (S
+          (NP (JJ ancient) (NNS people))
+          (VP (VBD knew)))))
+    (VP (VBD was)
+      (ADJP (JJ sandal)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (ADJP (JJ Sandalwood)
+        (CC and)
+        (JJ sandal))
+      (NN oil))
+    (VP (VBD were)
+      (ADVP (RB only))
+      (VP (VBN used)
+        (PP (IN in)
+          (NP (DT the) (NN beginning)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Kannauj) (, ,) (NNP Jaunpur) (, ,) (NNP Gazipur) (, ,) (NNP Lucknow)
+      (CC and)
+      (NNP Pune))
+    (VP (VBP lead)
+      (NP
+        (NP (DT the) (NN world))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN production))
+            (PP (IN of)
+              (NP (JJ perfumed) (NNS elements)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Commendable) (NNS efforts))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN done)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (JJ Indian) (NN government))
+              (CC and)
+              (NP (NNS people))))
+          (PP (IN for)
+            (NP
+              (NP (DT the) (NN development))
+              (PP (IN of)
+                (NP
+                  (NP (JJ perfumed) (NNS oils))
+                  (PP (IN in)
+                    (NP (JJ independent) (NNP India))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Now))
+    (NP (DT the) (JJ perfumed) (NN oil) (NN research) (NN committee))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN merged)
+          (PP (IN with)
+            (NP (NNP Central) (NNP Indian) (JJ medicinal) (NN plant) (NN organization))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT these) (NNS institutions))
+    (VP (VBP are)
+      (VP (VBG functioning)
+        (PP (IN under) ('' ')
+          (NP
+            (NP
+              (ADJP (JJ scientific)
+                (CC and)
+                (JJ industrial))
+              (NN research) (NN council))
+            (, ,)
+            (NP (NNP New) (NNP Delhi))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Works))
+    (VP (VBP are)
+      (VP (VBG being)
+        (VP (VBN carried)
+          (PP (IN in)
+            (NP (NN research) (NNS institutions)))
+          (PP (IN for)
+            (S
+              (VP (VBG getting)
+                (NP (JJ good) (NN knowledge))
+                (PP (IN about)
+                  (NP
+                    (NP (DT the) (JJ chemical) (NNS elements) (NN present))
+                    (PP (IN in)
+                      (NP (JJ perfumed) (NNS oils)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN work))
+      (VP (VBD was)
+        (VP (VBN carried)
+          (ADVP (RB first))
+          (PP (IN by)
+            (NP
+              (NP (JJ scientific) (NN research) (NNS centers))
+              (PP (IN of)
+                (NP (JJ various) (NNS states))))))))
+    (CC and)
+    (S
+      (NP (JJ many) (JJ significant) (NNS plants))
+      (VP (VBD were)
+        (ADVP (RB successfully))
+        (ADJP (JJ cultivated))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Sesame) (, ,) (NNP Pachauli) (, ,) (NNP menthol)
+      (CC and)
+      (NNS arbenis))
+    (VP (VBP are)
+      (ADJP (JJ popular)
+        (PP (IN among)
+          (NP (PRP them)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Other) (NNS people))
+      (ADJP (JJ interested)
+        (PP (IN in)
+          (NP (DT this) (NN sector)))))
+    (VP (VBP have)
+      (ADVP (RB also))
+      (VP (VBN worked)
+        (PP (IN at)
+          (NP (JJ personal) (NN level)))
+        (S
+          (VP (TO to)
+            (VP (VB merge)
+              (NP
+                (NP (DT the) (NN cultivation))
+                (PP (IN of)
+                  (NP (DT these) (NNS plants)
+                    (CC and)
+                    (NN distillation) (NN process)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (NP (DT some) (NN time))
+      (RB back))
+    (NP (NNP Central) (NN medicinal) (NN plant) (NN organization))
+    (VP (VBP have)
+      (ADVP (RB successfully))
+      (VP (VBN cultivated)
+        (NP
+          (NP (JJ cytronal) (NN grass) (, ,) (NN eucalyptus) (, ,) (NN sitiodora) (, ,) (NN geranium) (, ,) (JJ pachauli) (NN lavender))
+          (SBAR
+            (S
+              (NP
+                (NP (NNS plants))
+                (PP (IN from)
+                  (NP
+                    (NP (JJ semi-professional) (NN perspective))
+                    (PP (IN in)
+                      (NP (NNP Haldwani) (, ,) (NNP Bangalore) (, ,) (NNP Lucknow)
+                        (CC and)
+                        (NNP Utakamand))))))
+              (VP (VBZ centers)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Indian) (JJ standard) (NN institution))
+    (VP (VBZ has)
+      (VP (VBD occupied)
+        (NP (DT a) (JJ good) (NN position))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN export))
+            (PP (IN of)
+              (NP (JJ perfumed) (NNS oils)))))
+        (PP (IN from)
+          (NP (NNP India)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Foreigners))
+      (VP (VBP have)
+        (VP (VBN appreciated)
+          (NP
+            (NP (DT the) (NNS qualities))
+            (PP (IN of)
+              (NP (JJ perfumed) (NNS oils)))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP (RB totally) (VBN satisfied))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN While)
+        (S
+          (VP (VBG exporting)
+            (NP (NN oil))
+            (PP (TO to)
+              (NP (JJ foreign) (NNS countries))))))
+      (NP (PRP$ their) (NNS qualities))
+      (VP (MD should)
+        (VP (VB be)
+          (VP
+            (ADVP (RB properly))
+            (VBN examined)))))
+    (, ,) (RB then)
+    (S
+      (ADVP (RB only))
+      (NP (PRP they))
+      (VP (MD should)
+        (VP (VB be)
+          (VP (VB send)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN work))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN handed)
+          (PRT (RP over))
+          (PP (TO to)
+            (NP (DT the) (NNS laboratories)))
+          (PP (IN of) ('' ')
+            (NP
+              (NP (NN marketing)
+                (CC and)
+                (NN examination) (NN directorate)
+                (CC and)
+                (NN inspector) ('' '))
+              (, ,)
+              (NP (NNP India)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Perfumed) (NNS oils))
+    (VP (VBP vaporize)
+      (ADVP
+        (ADVP (RB very) (RB quickly))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (MD can)
+              (VP (VB be)
+                (VP
+                  (ADVP (RB easily))
+                  (VBN separated)
+                  (PP (IN with)
+                    (NP
+                      (NP (DT the) (NN help))
+                      (PP (IN of)
+                        (NP (NN spread) (NN vapor))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP are)
+      (NP
+        (NP (JJ several) (NNS methods))
+        (PP (IN of)
+          (NP (NN distillation)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (VP (VBN used)
+        (S
+          (VP (VBG keeping)
+            (NP
+              (NP (DT the) (NN nature))
+              (PP (IN of)
+                (NP (NN product))))
+            (PP (IN in)
+              (NP (NN mind)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Following)
+        (NP (NNS measures))))
+    (VP (MD should)
+      (VP (VB be)
+        (VP
+          (ADVP (RB essentially))
+          (VBN taken)
+          (PP (IN while)
+            (S
+              (VP (VBG doing)
+                (NP (NN distillation))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN temperature))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN kept)
+          (S
+            (ADJP (JJ low)))
+          (SBAR (IN as)
+            (FRAG
+              (ADJP (RB far) (RB as) (JJ possible)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Lowering))
+      (PP (IN of)
+        (NP (NN temperature))))
+    (VP (VBZ is)
+      (ADJP (RB extremely) (JJ important))
+      (SBAR (IN because)
+        (S
+          (PP (IN at)
+            (NP (JJ high) (NN temperature)))
+          (NP
+            (NP (DT the) (JJ various) (JJ existent) (NN chemical) (NNS factors))
+            (PP (IN in)
+              (NP
+                (NP (DT the) (JJ perfumed) (NNS oils) (JJ separate))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBZ is)
+                      (PP (IN at)
+                        (NP (JJ high) (NN temperature)))
+                      (NP
+                        (NP (DT the) (NNS elements))
+                        (PP (IN of)
+                          (NP (JJ perfumed) (NNS oils))))))))))
+          (VP (VBP lose)
+            (NP (PRP$ their) (NN stability))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN distillation) (NN method))
+      (PP (IN of)
+        (NP (JJ raw) (NNS materials))))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN carried)
+          (PP (IN in)
+            (NP (JJ favorable) (NNS conditions))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ raw) (NN material))
+      (ADVP (RB out))
+      (SBAR
+        (WHPP (IN of)
+          (WHNP (WDT which)))
+        (S
+          (NP (JJ perfumed) (NN oil))
+          (VP (VBZ is)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (VP (VBN extracted)))))))))
+    (VP (MD should) (RB not)
+      (VP (VB be)
+        (PP (IN in)
+          (NP (NN powder) (NN form)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Majority))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS factors))
+          (PP (IN of)
+            (NP (JJ perfumed) (NNS oils)))
+          (, ,)
+          (PP (IN except)
+            (NP (JJ few))))))
+    (VP (VBP are)
+      (ADJP (JJ soluble)
+        (PP (IN in)
+          (NP (JJ warm) (NN water)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Hence))
+    (NP
+      (NP
+        (ADJP (RB very) (JJR less))
+        (NN amount))
+      (PP (IN of)
+        (NP (JJ perfumed) (NN oil))))
+    (VP (VBZ is)
+      (VP (VBN obtained)
+        (SBAR
+          (WHADVP (WRB when))
+          (S
+            (NP (NN distillation))
+            (VP (VBZ is)
+              (VP (VBN carried)
+                (PP (IN by)
+                  (S
+                    (VP (VBG adding)
+                      (NP (JJR more) (NN water))
+                      (PP (IN in)
+                        (NP
+                          (NP (JJ little) (NN amount))
+                          (PP (IN of)
+                            (NP (JJ raw) (NN material))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NN method))
+      (PP (IN of)
+        (NP (NN water) (NN distillation))))
+    (VP (VBZ is)
+      (ADJP (RB extremely) (JJ important)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Perfumed) (NNS oils))
+    (VP (VBP contain)
+      (NP
+        (NP (JJ certain) (NN quantity))
+        (PP (IN of)
+          (NP (NN ester)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJR Longer) (NN duration))
+      (PP
+        (PP (IN of)
+          (NP (NN distillation)))
+        (CC and)
+        (PP (IN by)
+          (S
+            (VP (VBG taking)
+              (NP
+                (NP (JJR more) (NN amount))
+                (PP (IN of)
+                  (NP (NN water))))
+              (SBAR (IN while)
+                (S
+                  (S
+                    (VP (VBG distilling)))
+                  (, ,)
+                  (X (DT the))
+                  (NP (DT the) (NN ester))
+                  (VP (VBP present)
+                    (PP (IN in)
+                      (NP (DT the) (JJ perfumed) (NN oil)))))))))))
+    (VP (VBP break)
+      (PP (IN into)
+        (NP
+          (NP (JJ hydro-lime) (NN copper) (NN acid))
+          (CC and)
+          (NP
+            (NP (NN alcohol))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ yields)
+                  (NP
+                    (ADJP (RB very) (JJR less))
+                    (NN amount) (NN oil)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Water) (NNP distillation))
+    (VP (VBZ separates)
+      (SBAR
+        (S
+          (NP
+            (NP (JJR more) (NN amount))
+            (PP (IN of)
+              (NP
+                (NP (NN ester))
+                (PP (IN over)
+                  (NP (NN vapor) (CD distillation) (RB hence) (NN vapor) (NN distillation))))))
+          (VP (VBZ is)
+            (ADJP (RBR more) (JJ significant)
+              (PP (IN as)))
+            (PP (VBN compared)
+              (PP (TO to)
+                (NP (NN water) (NN distillation))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Water) (NNP distillation))
+      (VP (MD should)
+        (VP (VB be)
+          (VP (VBN avoided)
+            (ADVP (RB as) (RB far))
+            (PP (IN as)
+              (ADJP (JJ possible)))))))
+    (CC or)
+    (S
+      (NP (PRP they))
+      (VP (MD should)
+        (VP (VB be)
+          (VP (VBN carried)
+            (PP (IN for)
+              (NP (JJ little) (NN time)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Vapor) (NNP distillation))
+    (VP (VBZ is) (RB not)
+      (NP (DT a) (JJ good) (NN method)
+        (S
+          (VP (TO to)
+            (VP (VB obtain)
+              (NP (JJ perfumed) (NNS oils))
+              (PP (IN from)
+                (NP (NNS flowers))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Water) (NNP distillation) (NN method)
+      (CC or)
+      (NN vapor) (NN distillation) (NN method))
+    (VP (MD should)
+      (VP (VB be)
+        (VP
+          (ADVP (RB only))
+          (VBN used)
+          (S
+            (VP (TO to)
+              (VP (VB obtain)
+                (NP (NN oil))
+                (PP (IN from)
+                  (NP (NNS flowers)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PDT Both) (DT these) (NNS methods))
+      (VP (VBP are)
+        (ADJP (JJ good))))
+    (CC but)
+    (S
+      (NP
+        (NP (NN flower))
+        (CC and)
+        (NP (NN vapor) (NN distillation) (NN method)))
+      (VP (VBZ is)
+        (NP
+          (NP (DT the) (JJS best))
+          (PP (IN in)
+            (NP (DT this) (NN regard)))
+          (UCP
+            (SBAR (IN because)
+              (S
+                (NP (DT this) (NN method))
+                (VP (VBZ gives)
+                  (NP
+                    (NP (JJ good) (NN quality))
+                    (PP (IN of)
+                      (NP (NN oil)))))))
+            (CC and)
+            (PP (IN in)
+              (NP (JJR more) (NN amount)))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP (NN vapor) (NN distillation) (NN method))
+    (VP (MD should)
+      (VP (VB be)
+        (VP
+          (ADVP (RB only))
+          (VBN used)
+          (S
+            (VP (TO to)
+              (VP (VB obtain)
+                (NP (JJ perfumed) (NN oil))
+                (PP (IN from)
+                  (NP
+                    (NP (NNS flowers))
+                    (PP (IN at)
+                      (NP (JJ industrial) (NN level)))))
+                (SBAR (IN because)
+                  (S
+                    (NP (DT this) (NN method))
+                    (VP (VBZ yields)
+                      (NP
+                        (NP
+                          (ADJP
+                            (ADJP (JJ good) (NN quality))
+                            (CC and)
+                            (ADJP (JJR more)))
+                          (NN amount))
+                        (PP (IN of)
+                          (NP (NN oil)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN temperature))
+    (VP (MD can)
+      (ADVP (RB also))
+      (VP (VB be)
+        (VP
+          (ADVP (RB easily))
+          (VBN controlled)
+          (PP (IN in)
+            (NP (NN vapor) (NN distillation) (NN method))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ raw) (NN material))
+    (VP (MD should)
+      (VP (VB be)
+        (PP (IN in)
+          (NP (JJ such) (NN condition)))
+        (SBAR (IN that)
+          (S
+            (S
+              (NP (PRP it))
+              (ADVP (RB completely))
+              (VP (VBZ gets)
+                (VP (VBN dissolved)
+                  (PP (IN with)
+                    (NP (DT the) (JJ raw) (NN material)))
+                  (PP (IN while)
+                    (S
+                      (VP (VBG doing)
+                        (NP (NN water)
+                          (CC or)
+                          (NN vapor) (NN distillation))))))))
+            (CC and)
+            (S
+              (NP (PRP it))
+              (VP (MD should)
+                (VP (VB remove)
+                  (NP
+                    (NP (PDT all) (DT the) (NNS elements))
+                    (PP (IN of)
+                      (NP (DT the) (JJ raw) (NN material))))
+                  (PP (IN from)
+                    (NP (DT the) (JJ perfumed) (NN oil))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBZ is)
+      (NP (DT no) (NN need)
+        (S
+          (VP
+            (VP (TO to)
+              (VP (VB crush)
+                (CC or)
+                (VB cut)
+                (NP
+                  (NP (JJ little) (NNS parts))
+                  (PP (IN of)
+                    (NP
+                      (NP (DT the) (NNS flowers))
+                      (, ,)
+                      (NP
+                        (NP (NNS leaves))
+                        (, ,)
+                        (NP (NN grass))))))))
+            (CC and)
+            (VP (TO to)
+              (VP (VB obtain)
+                (NP (JJ perfumed) (NN oil))
+                (PP (IN from)
+                  (NP (PRP them)))))))))
+    (. .)))
+
+(ROOT
+  (S (CC But)
+    (NP
+      (NP (DT the) (JJ tough) (NNS parts))
+      (PP (IN of)
+        (NP
+          (NP (DT the) (NNS plants))
+          (PP (JJ such) (IN as)
+            (NP
+              (NP (NN wood))
+              (, ,)
+              (NP (NNS seeds))
+              (, ,)
+              (NP (NNS fruits))
+              (, ,)
+              (NP (NN root))
+              (CC or)
+              (NP (NN peel)))))))
+    (VP (MD should)
+      (VP (VB be)
+        (VP
+          (VP (VBN cut)
+            (PP (IN in)
+              (NP (JJ small) (NNS pieces))))
+          (CC or)
+          (VP (VBN crushed)
+            (PP (IN in)
+              (NP (NN order)))
+            (S
+              (VP (TO to)
+                (VP (VB obtain)
+                  (NP (JJ perfumed) (NN oil))
+                  (PP (IN from)
+                    (NP (PRP them)))
+                  (SBAR (RB so) (IN that)
+                    (S
+                      (S
+                        (NP
+                          (NP
+                            (ADJP (JJR more)
+                              (CC and)
+                              (JJR more))
+                            (NNS walls))
+                          (PP (IN of)
+                            (NP (NNS tissues))))
+                        (VP (VBP break)))
+                      (CC and)
+                      (S
+                        (NP (DT the) (NN oil))
+                        (ADVP (RB easily))
+                        (VP (VBZ comes)
+                          (PRT (RP out))
+                          (PP (IN with)
+                            (NP (NN vapor))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP
+          (ADVP (RB properly))
+          (VBG cutting)
+          (CC or)
+          (VBG crushing)
+          (NP (DT the) (JJ raw) (NN material)))))
+    (NP (PRP they))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN washed)
+          (PP (IN with)
+            (NP (JJ clean) (NN water)))
+          (SBAR (RB so) (IN that)
+            (S
+              (NP (JJ perfumed) (NN oil))
+              (VP (VBZ does) (RB not)
+                (VP (VB evaporate)
+                  (PP (IN by)
+                    (S
+                      (VP (VBG being)
+                        (ADJP (JJ vapor))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Before)
+      (S
+        (VP (VBG using)
+          (NP
+            (NP (DT the) (NNS roots))
+            (PP (IN of)
+              (NP
+                (NP (NNS orris))
+                (, ,)
+                (NP
+                  (NP (NNS leaves))
+                  (PP (IN of)
+                    (NP
+                      (NP (NNS patchouli)
+                        (CC and)
+                        (NNS roots))
+                      (PP (IN of)
+                        (NP (NN vanilla))))))))))))
+    (NP (DT the) (NNS pieces))
+    (VP (MD should)
+      (VP (VB be)
+        (ADJP (RB properly) (JJ mature))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ dry) (NNS parts))
+      (PP (IN of)
+        (NP
+          (NP (DT some) (NNS plants))
+          (CC or)
+          (NP
+            (NP (JJ dry) (NNS plants))
+            (VP (VBN preserved)
+              (PP (IN during)
+                (NP
+                  (NP (DT the) (NN time))
+                  (PP (IN of)
+                    (NP (NN harvesting))))))))))
+    (VP (VBP are)
+      (ADJP (JJ beneficial)
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN form))
+            (PP (IN of)
+              (NP (JJ raw) (NN material)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Geranium)
+        (CC and)
+        (NNP osimum))
+      (VP (VBD filimund)))
+    (: -)
+    (S
+      (NP (NN karikum) (NNS plants))
+      (VP (VBP are)
+        (VP (VBN used)
+          (PP (IN in)
+            (NP (JJ dry) (NN form)))
+          (S
+            (VP (TO to)
+              (VP (VB obtain)
+                (NP (NN oil))
+                (PP (IN from)
+                  (NP (PRP them)))
+                (SBAR (IN because)
+                  (S
+                    (NP
+                      (NP (JJR more) (NN amount))
+                      (PP (IN of)
+                        (NP (NN oil))))
+                    (VP (VBZ is)
+                      (VP (VBN extracted)
+                        (PP (IN in)
+                          (NP (JJ dry) (NN form)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Raw) (NNS materials))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN saved)
+          (SBAR (RB so) (IN that)
+            (S
+              (NP (NN vaporization) (, ,) (NN oxygenation)
+                (CC and)
+                (JJ other) (NN chemical) (NNS processes))
+              (VP (VBP do) (RB not)
+                (VP (VB occur)
+                  (SBAR (IN because)
+                    (S
+                      (NP (PDT all) (DT these) (NNS processes))
+                      (VP (VBP destroy)
+                        (NP
+                          (NP (DT the) (NN amount))
+                          (PP (IN of)
+                            (NP
+                              (NP (JJ perfumed) (NN oil))
+                              (PP (IN in)
+                                (NP (DT the) (JJ raw) (NN material))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Therefore))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (ADJP (RB extremely) (JJ important))
+      (S
+        (VP (TO to)
+          (VP (VB save)
+            (NP (DT the) (JJ raw) (NN material))
+            (NP (DT the) (DT the) (NN environment) (NN effect))
+            (S
+              (VP (TO to)
+                (VP (VB get)
+                  (NP
+                    (NP (JJ good) (NN quality)
+                      (CC and)
+                      (JJ good) (NN amount))
+                    (PP (IN of)
+                      (NP (JJ perfumed) (NN oil)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Water) (NN distillation) (NN method))
+      (VP (VBZ is)
+        (NP (DT the)
+          (ADJP
+            (ADJP (RBS most) (JJ easy))
+            (CC and)
+            (ADJP (RBR less) (JJ expensive)))
+          (NN technique)
+          (S
+            (VP (TO to)
+              (VP (VB obtain)
+                (NP (JJ perfumed) (NN oil))))))))
+    (CC and)
+    (S
+      (S
+        (VP (VBG using)
+          (NP (DT this) (NN method))))
+      (NP (JJ perfumed) (NN oil))
+      (VP (MD can)
+        (VP (VB be)
+          (VP (VBN extracted)
+            (PP (IN from)
+              (NP (DT the) (JJ entire) (NN world)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ raw) (NNS materials))
+    (VP (VBP are)
+      (VP (VBN boiled)
+        (PP (IN with)
+          (NP
+            (NP (JJR more) (NN amount))
+            (PP (IN of)
+              (NP (NN water)))))
+        (PP (IN in)
+          (NP (DT this) (NN method)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR
+        (WHADVP (WRB When))
+        (S
+          (NP (DT the) (JJ raw) (NNS materials))
+          (VP (VBP are)
+            (VP (VBN put)
+              (PP (IN in)
+                (NP (JJ boiling) (NN water)))))))
+      (NP (PRP they))
+      (VP (VBP float)
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN top))
+            (CC or)
+            (NP (NNS drowns))))))
+    (CC but)
+    (S
+      (NP (NN space))
+      (VP (VBZ is)
+        (VP (VBN left)
+          (PP (IN for)
+            (NP (NN vaporization))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN method))
+      (VP (VBZ yields)
+        (NP
+          (NP (JJ good) (NN quality)
+            (CC and)
+            (JJ good) (NN amount))
+          (PP (IN of)
+            (NP (NN oil)))
+          (SBAR
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (VP (VBD worked)
+                  (ADVP (RB carefully)))))
+            (CC but)
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (DT the) (JJ raw) (NN material))
+                (VP (VBZ comes)
+                  (PP (IN into)
+                    (NP
+                      (NP (NN contact))
+                      (PP (IN of)
+                        (NP (JJ hot) (NN part))))))))))))
+    (RB then)
+    (S
+      (NP
+        (NP (DT the) (JJ actual) (NN fragrance))
+        (PP (IN of)
+          (NP (DT the) (JJ perfumed) (NN oil))))
+      (VP (VBZ gets)
+        (VP (VBN lost)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (NN heat))
+              (PP (IN of)
+                (NP (JJ raw) (NN material))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Water) (NNS heads))
+    (VP (VBP are) (RB not)
+      (VP (VBN made)
+        (PP (IN during)
+          (NP
+            (NP (DT the) (NN contact))
+            (PP (IN of)
+              (NP
+                (NP (JJ raw) (NN material))
+                (PP (IN with)
+                  (NP (NN vapor)))))))
+        (PP (IN while)
+          (S
+            (VP (VBG extracting)
+              (NP (NN oil))
+              (S
+                (VP (VBG using)
+                  (NP (DT this) (NN method)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT Another) (NN obstacle))
+      (SBAR
+        (SBAR (IN while)
+          (S
+            (S
+              (VP (VBG using)
+                (NP (DT this) (NN method))))
+            (VP (VBZ is)
+              (NP
+                (NP (DT that) (JJ perfumed) (NN oil))
+                (SBAR
+                  (WHNP (WP$ whose) (JJ boiling) (NN point))
+                  (S
+                    (VP (VBZ is)
+                      (ADJP (JJR more)))))))))
+        (CC or)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBP are)
+              (ADJP (JJ soluble)
+                (PP (IN in)
+                  (NP (NN water)))))))))
+    (VP (MD can) (RB not)
+      (VP (VB be)
+        (VP
+          (ADVP (RB easily))
+          (VBN extracted)
+          (S
+            (VP (VBG using)
+              (NP (DT this) (NN method)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NN process))
+      (PP (IN of)
+        (NP
+          (NP (NN distillation) (NNS yields))
+          (SBAR
+            (S
+              (NP
+                (NP
+                  (NP (JJR more) (NN amount))
+                  (PP (IN of)
+                    (NP (NN oil))))
+                (CC and)
+                (NP
+                  (NP (DT the) (NN time))
+                  (VP (VBN involved))))
+              (VP (VBZ is)
+                (ADVP (RBR less) (RB as))
+                (PP (VBN compared)
+                  (PP (TO to)
+                    (NP (JJ other) (NNS methods)
+                      (CC and)
+                      (NNS hydrolysis))))))))))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (ADJP (JJR more)))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Thus))
+    (NP
+      (NP (DT the) (NN rate))
+      (PP (IN of)
+        (NP (NN distillation) (NN process))))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN organized)
+          (SBAR (RB so) (IN that)
+            (S
+              (NP
+                (ADJP (JJR more)
+                  (CC and)
+                  (JJR more))
+                (JJ high) (NN quality) (JJ perfumed) (NN oil))
+              (VP (VBZ is)
+                (VP (VBN obtained))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN distillation) (NN process))
+      (VP (VBN done)
+        (PP (IN at)
+          (NP (JJ low) (NN rate)))))
+    (VP (MD can)
+      (VP (VB be)
+        (ADJP (JJ harmful))
+        (SBAR (IN because)
+          (S
+            (S
+              (NP (DT the) (NN oil))
+              (VP (MD can) (RB not)
+                (VP (VB be)
+                  (VP (VBN extracted)
+                    (ADVP (RB properly))
+                    (PP (IN from)
+                      (NP (DT the) (JJ raw) (NNS materials)))))))
+            (CC and)
+            (S
+              (NP
+                (NP (DT the) (NN amount))
+                (PP (IN of)
+                  (NP
+                    (NP (NN oil))
+                    (VP (VBN obtained)))))
+              (VP (VBZ is)
+                (ADJP (JJ negligible))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS hydrocysis) (NN process))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (ADJP
+        (ADJP (RB very) (JJR less))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN distillation) (NN process))
+            (VP (VBN carried)
+              (PP (IN at)
+                (NP (JJ low) (NN rate))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Water))
+      (CC and)
+      (NP (NN vapor) (NN distillation) (NN method)))
+    (VP (VBZ is)
+      (ADJP (RB particularly) (JJ popular)
+        (PP (IN among)
+          (NP (DT the) (NNS industrialists)
+            (CC and)
+            (NNS industries))))
+      (S
+        (VP (VBG producing)
+          (SBAR
+            (S
+              (NP (NN oil))
+              (VP (VBZ is)
+                (NP (JJR less) (NN amount))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN distillation) (NN equipment))
+    (VP (VBZ is)
+      (ADJP (RB very) (JJ small))
+      (ADVP (RB here))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ is)
+            (ADJP (RB directly) (JJ heated))
+            (S
+              (VP (VBG using)
+                (NP (NN fire))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Big) (NN distillation) (NNS pots))
+    (VP
+      (VP (VBP are)
+        (VP (VBN heated)
+          (PP (IN through)
+            (NP (NN vapor) (NNS jackets)))))
+      (CC or)
+      (VP (VBD closed)
+        (NP (NN helix))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN surface) (NNS pots))
+    (VP (VBP are)
+      (VP (VBN kept)
+        (PP (IN on)
+          (NP (DT another) (NN layer)))
+        (PP (IN during)
+          (NP (DT this) (NN distillation) (NN process)))
+        (SBAR (RB so) (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBP remain)
+              (PRT (RP away))
+              (PP (IN from)
+                (NP (DT the) (JJ boiling) (NN water))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN pot))
+    (VP (VBZ is)
+      (VP (VBN dried)
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN help))
+            (PP (IN of)
+              (NP (JJ saturated) (JJ low) (NN pressure) (NN vapor)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN element)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN used)
+              (PP (IN as)
+                (NP (JJ raw) (NN material))))))))
+    (VP (MD should) (RB neither)
+      (VP (VB be)
+        (UCP
+          (ADJP (JJ powdered))
+          (CC nor)
+          (VP (VBN cut)
+            (PP (IN into)
+              (NP (JJ small) (NNS pieces)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Hence))
+    (NP
+      (NP (JJ raw) (NNS materials))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP
+            (VP (VBZ is)
+              (NP (NNS roots)))
+            (, ,)
+            (VP (VBZ stems))
+            (CC or)
+            (VP (VBZ peels)
+              (NP (FW etc.)))))))
+    (VP (MD should)
+      (VP (VB be)
+        (ADJP (NN medium) (JJ shaped))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN distillation) (NN process))
+      (PP (IN of)
+        (NP
+          (NP (NNS oils))
+          (PP (IN with)
+            (NP (JJ high) (JJ boiling) (NN point))))))
+    (VP (VBZ takes)
+      (NP (JJR longer) (NN duration)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Vapor))
+    (VP (VBP distillation) (: :) (: -)
+      (S
+        (PP (IN During)
+          (NP
+            (NP (DT this) (NN process))
+            (PP (IN of)
+              (NP (NN distillation)))))
+        (NP (JJ high) (NN pressure) (NN vapor))
+        (VP
+          (ADVP (RBR more)
+            (PP (IN than)
+              (NP
+                (NP (DT the) (NN pressure))
+                (PP (IN of)
+                  (NP (NN environment))))))
+          (VBZ enters)
+          (PP (IN into)
+            (NP (DT the) (NN distillation) (NN pot))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN During)
+      (NP (DT this) (NN distillation)))
+    (NP
+      (NP (DT the) (NN temperature))
+      (PP (IN of)
+        (NP (NN pot))))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB much) (JJR more))
+        (PP (IN than)
+          (NP
+            (NP (DT the) (NN temperature))
+            (PP (IN of)
+              (NP (NN vapor)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ High) (JJ heated) (NN vapor))
+    (VP (VBZ has)
+      (NP (DT the) (NN capacity)
+        (S
+          (VP (TO to)
+            (VP (VB cool)
+              (SBAR (IN that)
+                (S
+                  (NP
+                    (NP (NN pot))
+                    (CC and)
+                    (NP (RB thus) (JJR less) (NN oil)))
+                  (VP (VBZ is)
+                    (VP (VBN obtained))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Separation))
+    (VP (VBZ takes)
+      (NP
+        (NP (NN place))
+        (PP (RB because) (IN of)
+          (NP (JJ high) (NN pressure) (NN vapor)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP India)))
+    (NP (NN vapor) (NN distillation))
+    (VP (VBZ is)
+      (ADVP (RB generally))
+      (VP (VBN used)
+        (S
+          (VP (TO to)
+            (VP (VB obtain)
+              (NP
+                (ADJP (JJ turpentine) (, ,) (JJ sandalwood)
+                  (CC and)
+                  (JJ vetivar))
+                (NN oil)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Squeezing)
+        (NP (NN method))))
+    (: :) (: -)
+    (S
+      (NP (DT This) (NN method))
+      (VP (VBZ is)
+        (VP (VBN used)
+          (S
+            (VP (TO to)
+              (VP (VB obtain)
+                (NP (JJ perfumed) (NNS oils))
+                (PP (IN from)
+                  (NP
+                    (NP (DT the) (NNS plants))
+                    (PP (IN of)
+                      (NP (JJ lemon) (NN family)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Perfumed) (NNS oils))
+      (PP (IN from)
+        (NP (NNS oranges) (, ,) (NN lemon)
+          (CC and)
+          (NN virgovote))))
+    (VP (VBP are)
+      (VP (VBN obtained)
+        (S
+          (VP (VBG using)
+            (NP (DT this) (NN method))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD Three) (NNS kinds))
+      (PP (IN of)
+        (NP (NNS methods))))
+    (VP (VBP are)
+      (VP (VBN used)
+        (PP (IN for)
+          (NP (DT this)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Sponge) (NNP Process))
+    (: :) (: -)
+    (NP (DT This))
+    (VP (VBZ is)
+      (NP (DT an) (RB extremely) (JJ ancient) (NN method)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS fruits))
+      (VP (VBP are)
+        (VP (VBN cut)
+          (PP (IN into)
+            (NP
+              (NP (NNS pieces))
+              (VP (VBG using)
+                (NP
+                  (NP (DT an) (NN axe))
+                  (PP (IN in)
+                    (NP (DT this) (NN method))))))))))
+    (CC and)
+    (S
+      (NP (DT the) (NN substance) (NNS elements))
+      (VP (VBP are)
+        (VP (VBN brought)
+          (PP (IN out)
+            (S
+              (VP (VBG using)
+                (NP (DT a) (NN spoon))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Now))
+      (NP (DT the) (NNS peels))
+      (VP (VBP are)
+        (VP (VBN soaked)
+          (CC or)
+          (VBN put)
+          (PP (IN into)
+            (NP (NN water))))))
+    (, ,)
+    (NP (RB Later) (NN oil))
+    (VP (VBZ comes)
+      (PRT (RP out)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS peels))
+    (VP (VBP are)
+      (VP (VBN kept)
+        (PP (IN between)
+          (NP (NNS sponges)))
+        (S
+          (VP (TO to)
+            (VP (VB extract)
+              (NP (NN oil))
+              (PP (IN from)
+                (NP (PRP them))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN juice))
+      (VP
+        (ADVP (RB thus))
+        (VBN extracted)))
+    (VP (VBZ is)
+      (VP
+        (VP (VBN collected))
+        (CC and)
+        (VP
+          (ADVP (RB finally))
+          (VBN filtered))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ obtained) (NN oil))
+    (VP (VBZ contains)
+      (NP (JJ high) (NN value)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VB Kule)
+        (NP (NN method))))
+    (: :) (: -)
+    (S
+      (PP (IN In)
+        (NP (DT this) (NN method)))
+      (NP (DT a) (NN metal))
+      (VP (VBZ has)
+        (NP
+          (NP (DT a) (JJ hollow) (NN pipe))
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBZ contains)
+                (NP (NNS spines))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS fruits))
+    (VP (VBP have)
+      (S
+        (VP (TO to)
+          (VP (VB cross)
+            (NP (DT these) (NNS spines))
+            (PP
+              (ADVP (RB only))
+              (IN because) (IN of)
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (NP
+                    (NP (DT the) (NNS cells) (NN break))
+                    (CC and)
+                    (NP (DT the) (NN fluid)))
+                  (VP (VBZ gets)
+                    (VP (VBN collected)
+                      (PP (IN at)
+                        (NP (DT the) (NN surface))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN method))
+    (VP (VBZ yields)
+      (NP
+        (NP
+          (ADJP (RB even) (JJR less))
+          (NN amount))
+        (PP (IN of)
+          (NP (NN oil))))
+      (PP (IN than)
+        (NP (DT the) (JJ sponge) (NN method))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Several) (NNS machines))
+    (VP (VBP have)
+      (VP (VBN developed)
+        (PP (IN in)
+          (NP (NNP America)
+            (CC and)
+            (NNP Italy)))
+        (PP (IN on)
+          (NP (DT this) (NN principle)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Extraction)
+        (PP (IN through)
+          (NP (NNS solvents)))))
+    (: :) (: -)
+    (S
+      (PP (IN Despite)
+        (S
+          (VP (VBG being)
+            (NP (DT a) (JJ good) (NN method)))))
+      (NP (PRP it))
+      (VP
+        (VP (VBZ is) (RB not)
+          (ADJP (JJ satisfying)
+            (PP (IN in)
+              (NP
+                (NP (NN majority))
+                (PP (IN of)
+                  (NP (DT the) (NNS matters)))))))
+        (CC but)
+        (VP (VBP prove)
+          (S
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJ harmful))
+                (SBAR (IN because)
+                  (S
+                    (PP (IN of)
+                      (NP
+                        (NP (DT the) (NN presence))
+                        (PP (IN of)
+                          (NP
+                            (NP (JJ high) (NN temperature) (NN vapor))
+                            (PP (IN in)
+                              (NP (JJ perfumed) (NNS oils)))))))
+                    (NP (DT the) (JJ temporary) (JJ perfumed) (NNS chemicals))
+                    (VP (VBP are)
+                      (VP (VBN lost)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Sometimes))
+    (NP
+      (NP (DT the) (NN amount))
+      (PP (IN of)
+        (NP (NN oil))))
+    (VP (VBD obtained)
+      (SBAR
+        (S
+          (VP (VBZ is)
+            (ADVP (RB also))
+            (ADJP (RB very) (JJR less))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP
+      (ADVP (RB Hence))
+      (SBAR (IN in) (NN order)
+        (S
+          (VP (TO to)
+            (VP (VB get)
+              (PRT (RP away))
+              (PP (IN from)
+                (NP (DT these) (NNS shortcomings))))))))
+    (NP (DT another) (NN method))
+    (VP (VBZ is)
+      (VP (VBN used)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN method))
+    (VP (VBZ is)
+      (VP (VBN known)
+        (PP (IN as)
+          (NP
+            (NP (JJ solvent) (NN extraction))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (ADJP (JJ satisfying) (RB as)
+                    (PP (VBN compared)
+                      (PP (TO to)
+                        (NP
+                          (NP (NN distillation) (NN method))
+                          (PP (IN in)
+                            (NP
+                              (NP (NN majority))
+                              (PP (IN of)
+                                (NP (DT the) (NNS cases))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS solvents))
+      (VP (VBN used)
+        (PP (IN in)
+          (NP (DT this) (NN method)))))
+    (VP (VBP are)
+      (VP
+        (VP (VBG vaporizing))
+        (CC or)
+        (VP
+          (ADVP (RB non))
+          (VBG vaporizing))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBG Enflurez)
+        (PP (IN at)
+          (NP (JJ normal) (NN temperature)))))
+    (: :) (: -)
+    (S
+      (NP (DT This) (NN method))
+      (VP (VBZ is)
+        (ADVP (RB mainly))
+        (VP (VBN used)
+          (PP (IN in)
+            (NP
+              (NP (NN jasmine))
+              (, ,)
+              (NP (NN tuberose))
+              (CC and)
+              (ADVP (RB quite) (RB often)
+                (PP (IN for)
+                  (NP
+                    (NP (NN oranganicule))
+                    (, ,)
+                    (NP (NNP Kudeyute)))))
+              (NP (FW etc.)))))))
+    (. .) ('' '')))
+
+(ROOT
+  (S
+    (VP
+      (NP
+        (NP (NNS Chassis))
+        ('' '')
+        (SBAR
+          (S
+            (VP (VBZ is)
+              (VP (VBN set)
+                (NP (CD one))
+                (PP (IN after)
+                  (NP
+                    (NP (DT another))
+                    (PP (IN above)
+                      (NP (DT the) (NN glass) (NN plate)))))
+                (PP (IN with)
+                  (NP (DT a) (JJ wooden) (NN frame)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Flowers))
+    (VP (VBP lie)
+      (PP (IN between)
+        (NP (DT these) (CD two) (NN glass) (NNS plates))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ entire) (NN fragrance))
+      (PP (IN of)
+        (NP (DT those) (NNS flowers))))
+    (VP (VBP are)
+      (ADVP (RB gradually))
+      (VP (VBN absorbed)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG absorbing)
+          (NP (PDT all) (DT the) (NN fragrance)))))
+    (NP (DT the) (NNS flowers))
+    (VP (VBP are)
+      (VP (VBN thrown)
+        (PRT (RP out))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Jasmine) (NNS flowers))
+      (VP (VBP are)
+        (VP (VBN put)
+          (PP (IN on)
+            (NP (NN glass) (NNS plates)))
+          (NP (NN everyday)))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ next) (NN day))
+      (NP (PRP they))
+      (VP (VBP are)
+        (VP (VBN thrown)
+          (PRT (RP out)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Tuberose) (NNS flowers))
+    (VP (VBP are)
+      (VP (VBN kept)
+        (PP (IN for)
+          (NP (JJ two-three) (NNS days)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN chassis))
+    (VP (VBZ is)
+      (ADVP (RB continuously))
+      (VP (VBN moved)
+        (ADVP (RB up)
+          (CC and)
+          (RB down))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS flowers))
+    (VP (VBP are)
+      (VP (VBN changed)
+        (PP (IN till)
+          (NP
+            (NP (DT the) (NN time))
+            (SBAR
+              (S
+                (NP (PRP they))
+                (ADVP (RB completely))
+                (VP (VB absorb)
+                  (NP (DT the) (NN oil)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Extraction)
+        (PP (IN through)
+          (NP (VBG vaporizing) (NNS solvents)))))
+    (: :)
+    (S
+      (NP (DT This) (NN method))
+      (VP (VBZ is)
+        (ADVP (RB mainly))
+        (VP (VBN used)
+          (NP (DT these) (NNS days))
+          (SBAR (IN because)
+            (S
+              (NP (PRP it))
+              (VP (VBZ is)
+                (ADJP (RB extremely) (JJ useful))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN During)
+      (NP
+        (NP (DT this) (NN method) (NN carbon) (NNS solvents))
+        (PP (JJ such) (IN as)
+          (NP (NN benzene) (, ,) (NN methanol) (, ,) (NN acetone) (, ,) (NN petroleum)
+            (CC and)
+            (NN ether)))))
+    (NP (FW etc))
+    (VP (VBP are)
+      (VP (VBN used)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Before)
+      (S
+        (VP (VBG using)
+          (NP (DT these) (NNS solvents)))))
+    (NP (PRP they))
+    (VP (VBP are)
+      (VP
+        (VP (VBN treated)
+          (PP (IN with)
+            (NP (JJ sulfuric) (NN acid))))
+        (CC and)
+        (VP (VBN obtained)
+          (PP (IN in)
+            (NP (JJ pure) (NN form))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Several) (NN carbon) (NNS solvents))
+      (VP (VBP are)
+        (VP (VBN used)
+          (PP (IN for)
+            (NP (DT this) (NN method))))))
+    (CC but)
+    (S
+      (NP (NN petroleum) (, ,) (NN ether)
+        (CC and)
+        (NN benzene))
+      (VP (VBP are)
+        (ADVP (RB mostly))
+        (VP (VBN used))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN extraction) (NN process))
+    (VP (VBZ is)
+      (VP (VBN done)
+        (S
+          (VP (VBG using)
+            (NP
+              (NP (DT an) (NN equipment))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ is)
+                    (VP (VBN known)
+                      (PP (IN as)
+                        (NP (NN extractor))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP
+        (NP (NN majority))
+        (PP (IN of)
+          (NP (DT the) (NNS cases)))))
+    (NP (DT the) (NN oil))
+    (VP (VBD obtained)
+      (S
+        (VP (VBG using)
+          (S
+            (NP (DT this) (NN method))
+            (VP (VB get)
+              (NP
+                (NP (DT the) (NN color))
+                (PP (IN of)
+                  (NP
+                    (NP (DT the) (NN flower))
+                    (SBAR
+                      (WHPP (IN from)
+                        (WHNP (WDT which)))
+                      (S
+                        (NP (PRP they))
+                        (VP (VBP are)
+                          (VP (VBN extracted)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN color))
+      (PP (IN of)
+        (NP (DT the) (NN oil))))
+    (VP (VBZ depends)
+      (PP (IN on)
+        (NP
+          (NP (DT the) (NN color))
+          (PP (IN of)
+            (NP
+              (NP (DT the) (NN solvent))
+              (VP (VBN used)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN In) (NN order)
+        (S
+          (VP (TO to)
+            (VP (VB remove)
+              (NP
+                (NP (DT the) (VBN colored) (NNS particles))
+                (PP (IN of)
+                  (NP (DT the) (NN oil))))))))
+      (, ,)
+      (NP (NN distillation))
+      (VP (VBZ is)
+        (VP (VBN carried)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN presence))
+              (PP (IN of)
+                (NP (JJ colorless) (NN wax))))))))
+    (CC or)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (VP (VBN exposed)
+          (PP (TO to)
+            (NP (NN ultra) (NN violet) (NNS rays))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN Although)
+      (S
+        (NP (NNP India))
+        (VP (VBZ produces)
+          (NP
+            (NP (JJ high) (JJ quality) (JJ perfumed) (NNS oils))
+            (CONJP (CC but)
+              (RB only))
+            (NP (JJ few) (NNS oils))))))
+    (VP (VBP are)
+      (VP (VBN exported)
+        (ADVP (RB abroad))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN On)
+      (NP (DT the) (JJ other) (NN hand) (NNP India)))
+    (NP (PRP itself))
+    (VP (VBZ imports)
+      (NP
+        (NP (JJ perfumed) (NNS oils))
+        (ADJP (IN worth)
+          (NP
+            (NP
+              (QP (CD 17-20) (CD billion)))
+            (NP (DT every) (NN year)))))
+      (PP (IN from)
+        (ADVP (RB abroad))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ entire) (NN manufacturing) (NN process))
+      (PP (IN of)
+        (NP (JJ current) (NN perfume) (NN industry))))
+    (VP (VBZ is)
+      (ADJP (RB entirely) (JJ different)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN fragrance))
+      (PP (IN of)
+        (NP (DT any) (NN flower))))
+    (VP (VBZ is)
+      (VP (VBN seen)
+        (PP (IN by)
+          (S
+            (VP (VBG synthesizing)
+              (NP (PRP it))
+              (PP (IN as)
+                (PP (TO to)
+                  (SBAR
+                    (WHNP (WP what))
+                    (S
+                      (VP (VBP are)
+                        (NP
+                          (NP (DT the) (JJ chemical) (NNS elements))
+                          (SBAR
+                            (WHNP (WDT which))
+                            (S
+                              (VP (VBP provide)
+                                (NP (NN fragrance))
+                                (PP (TO to)
+                                  (NP (DT the) (NNS flowers)))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (S
+        (VP (VBG preparing)
+          (NP (DT those) (NNS chemicals))
+          (PP (IN in)
+            (NP (DT the) (NN laboratory))))))
+    (, ,)
+    (S
+      (NP
+        (NP (DT the) (JJ synthesized) (NN perfume))
+        (PP (IN of)
+          (NP (DT the) (NN flower))))
+      (VP (VBZ is)
+        (ADJP (JJ prepared))))
+    (CC and)
+    (S
+      (NP (NN alcohol) (NN cytronelol)
+        (CC and)
+        (NN geraniatn) (NNS chemicals))
+      (VP (VBP are)
+        (VP (VBN used))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Phenol) (NN ethyl) (NN methyl) (NN ether))
+    (VP (VBZ contains)
+      (NP
+        (NP (DT the) (NN fragrance))
+        (PP (IN of)
+          (NP (NN kewar) (NNS flowers)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (VBG According)
+      (PP (TO to)
+        (NP
+          (NP (DT the) (JJ present) (NN import) (NN policy))
+          (PP (IN of)
+            (NP (DT the) (NN government))))))
+    (NP (NNP India))
+    (VP (VB export)
+      (NP (CD 4000) (JJ perfumed) (NNS chemicals))
+      (PP (IN from)
+        (ADVP (RB abroad))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS chemicals))
+    (VP (VBP are)
+      (VP (VBN brought)
+        (PP (IN through)
+          (NP (JJ international) (NN perfume) (NN industry)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN preparation))
+      (PP (IN of)
+        (NP
+          (NP (NN majority))
+          (PP (IN of)
+            (NP (DT the) (JJ synthesized) (NN perfume) (NNS chemicals))))))
+    (VP (VBP are)
+      (VP (VBN based)
+        (PP (IN on)
+          (NP (NNS pines)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Indian) (NN turpentine) (NN oil))
+    (VP (VBZ is)
+      (VP
+        (ADVP (RB commonly))
+        (VBN obtained)
+        (PP (IN from) ('' '')
+          (NP (JJ pinus) (NN longifolia)))
+        ('' '')))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (JJ Opposite)
+          (PP (TO to)
+            (NP (JJ other) (NNS countries))))
+        (DT the) (NN turpentine))
+      (VP (VBN found)
+        (PP (IN in)
+          (NP (NNP India)))))
+    (VP (VBZ contains)
+      (ADJP
+        (NP (CD 30) (NN %))
+        (RBR more) (JJ pines)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN population))
+        (PP (IN of)
+          (NP (DT the) (NN world))))
+      (VP (VBZ is)
+        (ADVP (RB continuously))
+        (VP (VBG increasing))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN level))
+        (PP (IN of)
+          (NP
+            (NP (PRP$ our) (NN way))
+            (PP (IN of)
+              (NP (NN living))))))
+      (VP (VBZ is)
+        (ADVP (RB also))
+        (VP (VBG rising)
+          (PP (IN with)
+            (NP (DT this))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT That))
+    (VP (VBZ is)
+      (SBAR
+        (WHADVP (WRB why)
+          (PP (IN with)
+            (NP
+              (NP (DT the) (NN passage))
+              (PP (IN of)
+                (NP (NN time))))))
+        (S
+          (NP
+            (NP (DT the) (NN need))
+            (PP (IN for)
+              (NP
+                (NP (JJ cosmetic) (NNS materials))
+                (CC and)
+                (NP (JJ perfumed) (NNS oils)))))
+          (VP (VBP are)
+            (VP (VBG increasing))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Thus))
+      (NP (PRP we))
+      (VP (VBP see)
+        (SBAR (IN that)
+          (S
+            (NP (EX there))
+            (VP (VBZ is)
+              (NP
+                (NP (JJ great) (NN scope))
+                (PP (IN for)
+                  (NP
+                    (NP (NN perfume) (NN industry))
+                    (PP (IN in)
+                      (NP (DT the) (NN future)))))))))))
+    (CC and)
+    (S
+      (NP (DT this) (NN industry))
+      (VP (VBZ is)
+        (VP (VBN expected)
+          (S
+            (VP (TO to)
+              (VP (VB grow)
+                (ADVP (RB perpetually))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (RB Along) (IN with)
+      (S
+        (VP (VBG developing)
+          (NP (DT this) (NN industry)))))
+    (, ,)
+    (NP
+      (NP
+        (ADJP (JJR more)
+          (CC and)
+          (JJR more))
+        (NN quantity))
+      (PP (IN of)
+        (NP (JJ cheap) (JJ perfumed) (NNS chemicals))))
+    (VP (VBZ needs)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (VP (VBN prepared))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN demand))
+      (PP (IN for)
+        (NP
+          (NP (JJ perfumed) (NNS oils))
+          (VP (VBN obtained)
+            (ADVP (RB naturally))
+            (PP (IN from)
+              (NP (NNS plants)))))))
+    (VP (VBZ is)
+      (VP (VBG increasing)
+        (SBAR (IN because)
+          (S
+            (NP
+              (NP (DT the) (NN preparation))
+              (PP (IN of)
+                (NP
+                  (NP (JJ extracted) (NNS perfumes))
+                  (PP (IN in)
+                    (NP (NNS laboratories))))))
+            (VP (VBZ requires)
+              (NP (PRP them)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (SBAR (IN In) (NN order)
+        (S
+          (VP (TO to)
+            (VP (VB develop)
+              (NP
+                (NP (DT this) (JJ important) (NN subject))
+                (SBAR
+                  (S
+                    (NP (PRP it))
+                    (VP (VBZ is)
+                      (ADJP (JJ necessary)
+                        (S
+                          (VP (TO to)
+                            (VP (VB plant)
+                              (NP
+                                (NP (JJ foreign) (NN variety))
+                                (PP (IN of)
+                                  (NP (NNS plants)
+                                    (CC and)
+                                    (NNS trees))))
+                              (PP (IN in)
+                                (NP (JJ large) (NNS numbers)))
+                              (PP (IN by)
+                                (NP (DT the) (JJ various) (NN state) (NNS governments)))
+                              (PP (IN through)
+                                (NP (PRP$ their) (NN forest) (NNS departments)))))))))))))))
+      (, ,)
+      (NP (PRP they))
+      (VP (MD should)
+        (VP (VB be)
+          (ADJP (JJ cultivated)))))
+    (CC and)
+    (S
+      (NP (NNS trees))
+      (VP (MD should)
+        (VP (VB be)
+          (VP (VBN planted)
+            (PP (IN in)
+              (NP
+                (NP (DT the) (NN form))
+                (PP (IN of)
+                  (NP (NNS forests)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT this) (JJ barren)))
+    (, ,)
+    (NP
+      (ADJP (JJ sterile))
+      (NN land))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN used))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN In) (NN order)
+      (S
+        (VP (TO to)
+          (VP (VB encourage)
+            (NP (PRP them))))))
+    (NP (DT the) (NNP Uttar) (NNP Pradesh) (NN government))
+    (VP (VBZ has)
+      (VP (VBN given)
+        (NP (PRP them))
+        (NP
+          (NP (NN land))
+          (PP (IN at)
+            (NP
+              (NP
+                (ADJP (RB extremely) (JJ low))
+                (NN value))
+              (PP (IN for)
+                (S
+                  (VP (VBG cultivating)
+                    (NP (NN perfume))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB Even) (NN today))
+    (NP (PRP we))
+    (VP (VBP are)
+      (VP (VBN confronted)
+        (PP (IN with)
+          (NP
+            (NP (JJ many) (NNS difficulties))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBP stop)
+                  (NP (PRP us))
+                  (PP (IN from)
+                    (S
+                      (VP (VBG moving)
+                        (ADVP (RB forward))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP We))
+    (VP (VBP face)
+      (NP
+        (NP (NN scarcity))
+        (PP (IN of)
+          (NP
+            (ADJP (JJ high) (NN quality))
+            (JJ raw) (NNS materials)))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Ever))
+    (NP (JJ increasing) (NN price) (NN rise))
+    (VP (VBZ becomes)
+      (NP (DT a) (NN problem))
+      (PP (IN in)
+        (S
+          (VP
+            (VP (VBG cultivating)
+              (NP (DT these) (NNS plants)))
+            (CC and)
+            (VP (VBG extracting)
+              (NP (NN oil))
+              (PP (IN from)
+                (NP (PRP them))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Lack))
+      (PP (IN of)
+        (NP
+          (NP (JJ advanced) (NN machinery))
+          (CC and)
+          (NP (JJ other) (NNS facilities)))))
+    (ADVP (RB always))
+    (VP (VBP pose)
+      (NP
+        (NP (NN hindrance))
+        (PP (IN in)
+          (NP (DT these) (NNS sectors)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Ways)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB grow)
+              (NP
+                (ADJP (JJR more)
+                  (CC and)
+                  (JJR more))
+                (NNS plants))
+              (S
+                (VP (VBG providing)
+                  (NP (JJ perfumed) (NNS oils)))))
+            (CC and)
+            (VP (VB stop)
+              (NP
+                (NP (DT the) (NNS hindrances))
+                (SBAR
+                  (WHNP (WDT that))
+                  (S
+                    (VP (VBD reatrd)
+                      (NP (PRP$ their) (NN production)))))))))))
+    (VP (VBP are)
+      (VP (VBG being)
+        (VP (VBN considered))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Perfume))
+    (VP (MD can)
+      (VP (VB be)
+        (VP (VBN extracted)
+          (PP (IN from)
+            (NP (NNS plants))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Several) (NNS plants))
+    (VP (VBP are)
+      (ADVP (RB continuously))
+      (VP (VBG being)
+        (VP (VBN used)
+          (PP (IN in)
+            (NP
+              (NP (NN perfume) (NN industry))
+              (CC and)
+              (NP (JJ other) (NNS agencies)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Consequently))
+    (NP
+      (NP (PRP$ their) (NN specialization))
+      (PP (IN in)
+        (NP (NN nature))))
+    (VP (VBZ is)
+      (VP (VBG decreasing)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (ADVP (RB Therefore))
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ essential)
+          (S
+            (VP (TO to)
+              (VP (VB evaluate)
+                (NP (PRP them))
+                (PP (IN after)
+                  (NP
+                    (NP (NN collection))
+                    (PP (IN for)
+                      (NP (JJ proper) (NN use)))))))))))
+    (, ,)
+    (S
+      (ADVP (RB then))
+      (NP (RB only) (JJR better) (NNS varieties))
+      (VP (MD could)
+        (VP (VB be)
+          (VP (VBN prepared)))))
+    (CC and)
+    (S
+      (NP
+        (NP (NN production) (NNS techniques))
+        (ADJP (JJ equivalent)
+          (PP (TO to)
+            (NP (PRP them)))))
+      (VP (MD could)
+        (VP (VB be)
+          (VP (VBN developed)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (DT the) (NN year) (CD 1959)))
+    (NP (DT A) (JJ special) (NN organization))
+    (VP (VBD named)
+      (SBAR
+        (S
+          (NP (JJ central) (NN medicinal) (NN plant) (NN organization))
+          (VP (VBD was)
+            (VP (VBN formed))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Its) (NN purpose))
+    (VP (VBD was)
+      (S
+        (VP (TO to)
+          (VP
+            (VP (VB assist)
+              (PP (IN in)
+                (NP
+                  (NP (DT the) (NN development) (NN work))
+                  (PP (IN of)
+                    (NP (JJ perfumed)
+                      (CC and)
+                      (JJ medicinal) (NNS plants))))))
+            (CC and)
+            (VP (VB maintain)
+              (NP
+                (NP (DT a) (NN co-ordination))
+                (PP (IN between)
+                  (NP (PRP them)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Indian) (JJ perfumed) (NN oil) (NN association))
+    (ADVP (RB also))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJ significant) (NN contribution))
+        (PP (IN in)
+          (NP (DT this) (NN industry)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ technical) (NN magazine))
+      (SBAR
+        (S
+          (VP (VBD named) ('' '')
+            (NP (JJ Indian) (NN perfumer))
+            ('' '')))))
+    (VP (VBZ has)
+      (ADVP (RB also))
+      (VP (VBN been)
+        (VP (VBN started)
+          (PP (IN by)
+            (NP
+              (NP (DT this) (NN association))
+              (PP (IN for)
+                (NP
+                  (NP (PRP$ its) (JJ overall) (NN progress))
+                  (PP (IN in)
+                    (NP (CD 1957))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Because)
+      (PP (IN of)
+        (NP
+          (NP (DT the) (JJ unprecedented) (NN progress))
+          (PP (IN in)
+            (NP (NN science)
+              (CC and)
+              (NN technology))))))
+    (, ,)
+    (NP (EX there))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (NP (PDT such) (DT an) (NN increase))
+        (PP (IN in)
+          (NP
+            (NP (DT the) (NN production))
+            (PP (IN of)
+              (NP (DT these) (JJ perfumed) (NN oil) (NNS crops)))))
+        (SBAR (IN that)
+          (S
+            (NP (RB not) (RB only) (DT the) (JJ domestic) (NN demand))
+            (VP (VBZ is)
+              (VP (VBN met)
+                (SBAR (CC but)
+                  (S
+                    (NP (JJ several) (NNS products))
+                    (VP (VBP are)
+                      (ADVP (RB also))
+                      (VP (VBG being)
+                        (VP (VBN exported))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (ADJP (JJ Apart)
+          (PP (IN from)
+            (NP
+              (NP
+                (NP (JJ sandal) (NNS lemongrass))
+                (PRN (-LRB- -LRB-)
+                  (NP (NNP Agya) (NN grass))
+                  (-RRB- -RRB-)))
+              (, ,)
+              (NP
+                (NP (NNP Pamrosa))
+                (PRN (-LRB- -LRB-)
+                  (NP (JJ Gandhej) (NN grass))
+                  (-RRB- -RRB-)))
+              (, ,)
+              (NP
+                (NP (NN geranium))
+                (PRN (-LRB- -LRB-)
+                  (NP (NNP Bhanda))
+                  (-RRB- -RRB-)))
+              (, ,)
+              (NP (NNP Pachauli) (NNP linel) (NNP etc.)))))
+        (JJ other) (JJ various) (NNS kinds))
+      (PP (IN of)
+        (NP (NN oil))))
+    (VP (VBP are)
+      (VP (VBN prepared)
+        (PP (IN in)
+          (NP (JJ south) (NNP India)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (NNP Majority))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJ total) (NNS lemongrass) (NN oil))
+            (VP (VBN produced)
+              (PP (IN in)
+                (NP (DT the) (NN world)))))))
+      (VP (VBZ is)
+        (VP (VBN cultivated)
+          (PP (IN in)
+            (NP (NNP India))))))
+    (CC and)
+    (S
+      (NP (DT this) (NN crop))
+      (VP (VBZ is)
+        (VP (VBN grown)
+          (PP (IN on)
+            (NP
+              (NP (DT the) (NNS slopes))
+              (PP (IN in)
+                (NP (JJ rainy) (NNS conditions))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Citral))
+      (, ,)
+      (NP
+        (NP (DT a) (NN factor))
+        (PP (IN of)
+          (NP (JJ lemongrass) (NN oil)))))
+    (VP (VBZ contains)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP
+            (NP (NNP vitamin) (POS '))
+            (NNP A) ('' ') (NN content)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN As)
+      (NP
+        (NP (DT a) (NN result))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (NN research))
+            (VP (VBN carried)
+              (PP (IN in)
+                (NP (NNP Kerala) (NNP University))))))))
+    (, ,)
+    (NP
+      (NP (DT an) (JJ excellent) (NN variety))
+      (VP (VBN named) ('' '')
+        (NP (NNP O-D) ('' ''))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN developed))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT This) (NN variety))
+      (PP (IN of)
+        (NP (NN plant))))
+    (VP (VBZ gives)
+      (ADVP (RB twice))
+      (PP
+        (ADVP
+          (NP (DT the) (NN leaves))
+          (RB as))
+        (VBN compared)
+        (PP (TO to)
+          (NP
+            (NP (JJ local) (NN variety))
+            (PP (IN after)
+              (NP
+                (NP (CD 5-6) (NNS years))
+                (PP (IN of)
+                  (NP (NN plantation)))))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBP contain)
+                  (NP (CD 85-92) (NN %))
+                  (NP (NN oil) (NN content)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN As)
+      (S
+        (NP
+          (NP (DT a) (NN result))
+          (PP (IN of)
+            (NP (NN research) (NNS works))))
+        (VP (VBD carried)
+          (PP (IN in)
+            (NP
+              (NP (JJ other) (NNS centers))
+              (, ,) ('' '')
+              (NP
+                (NP (NNP S) (NNP D-68))
+                (CC and)
+                (NP (NN R.R.L-16)))))
+          ('' '')
+          (PRN (-LRB- -LRB-)
+            (NP (NNP Jammu))
+            (-RRB- -RRB-)))))
+    (NP (NNS varieties))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN issued)
+          (SBAR
+            (WHNP (WDT which))
+            (S
+              (VP (VBP are)
+                (VP (VBN sown)
+                  (PP (IN in)
+                    (NP
+                      (NP (JJ different) (NNS parts))
+                      (PP (IN of)
+                        (NP (DT the) (NN country))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN perfume))
+      (VP (VBN obtained)
+        (PP (IN from)
+          (NP (NNP Jasmine) (NN grandifloram) (NNS plants)))))
+    (VP (VBP are)
+      (ADJP (JJ expensive)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NN Ko-1)
+        (CC and)
+        (NN pichi) (NNS varieties))
+      (PP (IN of)
+        (NP (NN jasmine))))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN developed)
+          (PP (IN by)
+            (NP
+              (NP (NNP Tamil) (NNP Nadu) (NNP agricultural) (NNP University))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ contains)
+                    (NP
+                      (NP (CD 0.05) (NN %))
+                      (NP (JJ perfumed) (NN oil) (NN content)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Jasmine) (NNS orchards))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN planted)
+          (PP (IN in)
+            (NP
+              (NP (JJ subtropical) (NNS regions))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (ADVP (RB continuously))
+                  (VP (VBZ yields)
+                    (SBAR
+                      (S
+                        (NP
+                          (NP (NNS flowers))
+                          (PP (IN for)
+                            (NP (CD 7-8) (NNS months))))
+                        (VP (VBP round)
+                          (SBAR
+                            (S
+                              (NP
+                                (NP (DT the) (NN year))
+                                (CC and)
+                                (NP
+                                  (ADJP (IN per) (JJ hectare))
+                                  (NN production)))
+                              (VP (VBZ is)
+                                (NP (CD 10) (NNS tonnes))))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Nitrogen) (NNS fertilizers))
+    (VP (VBP are)
+      (VP (VBN required)
+        (NP
+          (QP (CD 6) (NNS times)))
+        (PP (IN for)
+          (NP (JJ good) (NN crop) (NN round)))
+        (NP
+          (NP (DT the) (NN year))
+          (PP (IN in)
+            (NP (DT that) (NN region))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN plantation))
+      (PP (IN of)
+        (NP (NN barsera) (NN delpikiana))))
+    (VP (VBD was)
+      (ADVP (RB first))
+      (VP (VBN started)
+        (PP (IN near)
+          (NP (NNP Bangalore)))
+        (PP (IN in)
+          (NP (NNP Mysore)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (VP (VBN prepared)
+          (PP (IN from)
+            (NP
+              (NP (DT both) (NN stem))
+              (CC and)
+              (NP (NNS seeds)))))))
+    (CC and)
+    (S
+      (NP (DT every) (NN year))
+      (NP (PRP they))
+      (VP (VBP give)
+        (PP (IN around)
+          (NP
+            (NP (CD 20) (NN k.g) (NN oil))
+            (PP (IN per)
+              (NP (NN hectare)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP National))
+      (VP (VBP botanical)
+        (NP
+          (NP (NN research) (NN institute))
+          (, ,)
+          (NP (NNP Lucknow)))))
+    (: :) (: -)
+    (S
+      (ADVP (RB Recently))
+      (NP (EX there))
+      (VP (VBD was)
+        (VP (VBN downfall)
+          (PP (IN in)
+            (NP
+              (NP (DT the) (NN quality))
+              (PP (IN of)
+                (NP (NN roza) (NN demasin) (NNS flowers)))))
+          (PP (IN in)
+            (NP
+              (NP
+                (NP (JJ national) (JJ botanical) (NN research) (NN institute))
+                (SBAR (IN as)
+                  (S
+                    (NP (PRP they))
+                    (VP (VBD became)))))
+              (ADJP (JJ excessive) (JJ hot)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT Another) (JJ new) (NN plant))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN developed)
+            (PP (IN for)
+              (S
+                (VP (VBG carrying)
+                  (NP (NN distillation))
+                  (PP (IN in)
+                    (NP (NN institute) (NNS farms))))))))))
+    (CC and)
+    (S
+      (NP (JJ new) (NN distillation) (NN method))
+      (VP (VBZ has)
+        (VP (VBN been)
+          (VP (VBN found)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ gives)
+                  (NP (CD 0.03) (NN %))
+                  (NP
+                    (NP (NN amount))
+                    (PP (IN of)
+                      (NP
+                        (NP (NN oil))
+                        (PP (RB as) (IN per)
+                          (NP
+                            (NP (DT the) (NN weight))
+                            (PP (IN of)
+                              (NP (DT the) (NNS flowers)))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN plant))
+    (VP (VBZ is)
+      (ADJP (JJ small))
+      (SBAR (IN that)
+        (S
+          (VP (VBZ is)
+            (SBAR
+              (WHADVP (WRB why))
+              (S
+                (NP (PRP it))
+                (VP (MD can)
+                  (VP (VB be)
+                    (VP
+                      (ADVP (RB easily))
+                      (VBN moved)
+                      (PP (IN from)
+                        (NP
+                          (NP (CD one) (NN place))
+                          (PP (TO to)
+                            (NP (DT another))))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNP Regional) (NN research) (NN laboratory))
+        (, ,)
+        (NP (NNP Jammu))
+        (: :))
+      (PRN (: -)
+        (PP (VBG Including)
+          (NP
+            (NP (JJ other) (NNS centers))
+            (NP (JJ Japanese) (NN mint))))))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP
+          (ADVP (RB successfully))
+          (VBN grown)
+          (PP (IN by)
+            (NP
+              (NP (DT the) (NN institute))
+              (PP (IN in)
+                (NP (NNP Jammu))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN Adaptation) (NN capacity)
+      (CC and)
+      (NN production) (JJ related) (NNS studies))
+    (VP (VBP have)
+      (VP (VBN been)
+        (VP (VBN carried)
+          (PP (IN on)
+            (NP
+              (NP (NNP Menthol) (NNP Arbesis))
+              (VP (VBN sponsored)
+                (PP (IN by)
+                  (NP (NNP UNESCO)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Guidance))
+    (VP (VBZ has)
+      (VP (VBN been)
+        (VP (VBN given)
+          (PP (IN by)
+            (NP
+              (NP (JJ regional) (NN research) (NN laboratory))
+              (PRN (-LRB- -LRB-)
+                (NP (NNP Jammu))
+                (-RRB- -RRB-))
+              (CC and)
+              (NP (JJ central) (NN medicinal)
+                (CC and)
+                (JJ perfumed) (NN plant) (NN institute))
+              (PRN (-LRB- -LRB-)
+                (NP (NNP Lucknow))
+                (-RRB- -RRB-))))
+          (PP (IN for)
+            (NP
+              (NP
+                (NP (VBG growing) (NN menthol))
+                (PP (IN in)
+                  (NP (NNP Haldwani))))
+              (CC and)
+              (NP
+                (NP (NNS lowlands))
+                (PP (IN of)
+                  (NP (NNP Uttar) (NNP Pradesh)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN crop))
+    (VP (VBZ becomes)
+      (ADJP (JJ ready)
+        (PP (IN in)
+          (NP (CD 3) (NNS years)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP
+      (ADVP (RB Apart))
+      (IN from)
+      (S
+        (VP (VBG providing)
+          (NP (NN employment) (NNS opportunities))
+          (PP (TO to)
+            (NP
+              (NP (JJ several) (NNS people))
+              (NP (DT every) (NN year)))))))
+    (NP (PRP$ its) (NN production))
+    (VP (VBZ gives)
+      (NP
+        (QP (CD 7) (CD billion))
+        (JJ foreign) (NN exchange)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (DT An) (NN offspring))
+      (PP (IN of)
+        (NP (JJ Indian) (JJ agricultural) (NN research) (NN institute) (NN department))))
+    (: :)
+    (S
+      (S
+        (VP
+          (VP (VBG -) ('' '')
+            (NP (NN S-79))
+            ('' ''))
+          (, ,) ('' '')
+          (VP (VBG S-3839) ('' '')
+            (NP (NNP and))
+            ('' ''))
+          (NP
+            (NP (NNP S30-4) ('' '') (NNP varieties))
+            (PP (IN of)
+              (NP (NNP Thyme))))))
+      (VP (VBP have)
+        (VP (VBN been)
+          (VP (VBN developed)
+            (PP (IN in)
+              (NP (DT the) (NN department)))
+            (S
+              (VP (TO to)
+                (VP (VB increase)
+                  (NP
+                    (NP (DT the) (NN production))
+                    (PP (IN of)
+                      (NP (NN fennel) (NN seed) (NNS crops)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Good) (NN amount))
+      (PP (IN of)
+        (NP (NNS leaves))))
+    (VP (VBD were)
+      (VP (VBN produced)
+        (PP (IN by)
+          (S
+            (VP (VBG growing)
+              (NP
+                (NP (NNP Pusa) (NNP C))
+                (SBAR
+                  (S
+                    (NP
+                      (NP (CD 350) (NN variety))
+                      (PP (IN of)
+                        (NP (NN coriander))))
+                    (VP (VBD developed)
+                      (PP (IN through)
+                        (NP (JJ hybrid) (NN method)))
+                      (PP (IN with)
+                        (NP (JJ sugarcane) (NN crop))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS seeds))
+      (PP (IN of)
+        (NP (DT the) (JJ other) (NN variety) ('' '') (NN Sheetal)))
+      ('' ''))
+    (VP (VBP contain)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (NN oil) (NN content)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP National))
+      (VP (VBG sapling)
+        (NP (NN offspring) (NNS resources))
+        (NP
+          (NP (NN bureau))
+          (, ,)
+          (NP (NNP New) (NNP Delhi)))))
+    (: :) (: -)
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (VBN concerned)
+        (PP (IN with)
+          (S
+            (VP (VBG sapling)
+              (NP (NN offspring) (NNS means)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN organization))
+    (VP (VBZ fulfills)
+      (S
+        (VP (VBG sapling)
+          (NP
+            (NP (VBN related) (NNS needs))
+            (PP (IN of)
+              (NP
+                (NP (DT the) (NNS scientists))
+                (PP (IN in)
+                  (NP (DT the) (NN country)
+                    (CC and)
+                    (RB abroad)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (ADJP (RB extremely) (JJ important))
+      (SBAR
+        (SBAR (IN for)
+          (S
+            (NP (PRP us))
+            (VP (TO to)
+              (VP (VB be)
+                (ADJP (JJ sure))
+                (SBAR
+                  (SBAR (IN that)
+                    (S
+                      (NP (DT the) (JJ future) (NNS generations))
+                      (VP (MD should)
+                        (VP (VB get)
+                          (NP (DT a) (JJ saplings) (NNS mediums))
+                          (PP (IN with)
+                            (NP (JJ healthy) (NN base)))))))
+                  (CC and)
+                  (SBAR
+                    (WHNP (WDT which))
+                    (S
+                      (VP (VBZ is)
+                        (ADJP (RB error) (JJ free))))))))))
+        (CC and)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ remains)
+              (ADJP (JJ ineffective)
+                (PP (IN of)
+                  (NP
+                    (NP (JJ foolish) (NN use))
+                    (PP (IN of)
+                      (NP (VBG sapling) (NNS mediums)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Sowa))
+    (VP (VBZ is)
+      (NP (DT a) (NN winter) (NN crop)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their))
+    (RB all)
+    (NP (NNS plants))
+    (VP (VBP are)
+      (VP (VBN used)
+        (PP
+          (PP (IN as)
+            (NP (NN vegetable)))
+          (CC and)
+          (PP (IN for)
+            (NP (NN aroma))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS seeds))
+      (VP (VBP are)
+        (ADJP (JJ famous)
+          (PP (IN for)
+            (NP (PRP$ their) (JJ medicinal) (NNS values))))))
+    (CC and)
+    (S
+      (NP
+        (NP (DT the) (NN reason))
+        (PP (IN behind)
+          (NP (JJ theses) (NNS values))))
+      (VP (VBZ is)
+        (NP (PRP$ their) (VBG vaporizing) (NN oil))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADJP (VBN mixed)
+        (PP (IN in)
+          (NP (JJ several) (JJ medicinal) (NNS compounds)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Its) (VBG vaporizing) (NN oil))
+      (PP (IN with)
+        (NP (JJ sowa) (NN oil) (NN water) (NN emulsion))))
+    (VP (VBZ proves)
+      (S
+        (VP (TO to)
+          (VP (VB be)
+            (ADJP (JJ beneficial)
+              (PP (RB particularly) (IN for)
+                (ADJP (JJ cold))))
+            (PP (IN among)
+              (NP (NNS children)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NNS seeds))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (VP (VBN used)
+        (PP (IN as)
+          (NP (NNS spices)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Sowa) (NN oil))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (VP (VBN used)
+        (S
+          (VP (TO to)
+            (VP (VB give)
+              (NP (NN fragrance))
+              (PP (TO to)
+                (NP (NNS soaps))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD 3-3) (CD .5) (NN %))
+      (VP (VBN vaporized)
+        (NP (NN oil))))
+    (VP (VBZ is)
+      (VP (VBN obtained)
+        (PP (IN from)
+          (NP (NN sowa) (NNS seeds)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Its) (CD one) (NN part))
+      (VP (VBZ is)
+        (VP (VBN filled)
+          (PP (IN with)
+            (NP (NN water))))))
+    (CC and)
+    (S
+      (NP (DT that))
+      (VP (VBZ is)
+        (SBAR
+          (WHADVP (WRB why))
+          (S
+            (NP (PRP it))
+            (VP (VBZ settles)
+              (PP (IN at)
+                (NP
+                  (NP (DT the) (NN surface))
+                  (PP (IN of)
+                    (NP (DT the) (NN receptor)))))
+              (PP (IN during)
+                (NP (NN distillation))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (ADVP (RB majorly))
+        (VP (VBN planted)
+          (PP (IN during)
+            (NP (NNS winters))))))
+    (CC but)
+    (S
+      (NP (PRP it))
+      (VP (MD can)
+        (ADVP (RB also))
+        (VP (VB be)
+          (VP (VBN grown)
+            (PP (IN during)
+              (NP (NNS summers)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Open) (NN space))
+      (PP (IN with)
+        (NP (JJ full) (NN sunshine))))
+    (VP (VBZ is)
+      (ADJP (JJ good)
+        (PP (IN for)
+          (NP (JJ good) (NN production)))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN For)
+      (NP (DT this) (JJ loamy)
+        (CC and)
+        (JJ sandy)))
+    (NP
+      (NP (NN soil)
+        (CC and)
+        (NN land))
+      (PP (IN with)
+        (NP (JJ proper) (NN drainage))))
+    (VP (VBZ is)
+      (VP (VBN required)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (CD 25-30) (NNS trucks))
+        (PP (IN of)
+          (NP (NN cow) (NN dung))))
+      (VP (MD should)
+        (VP (VB be)
+          (VP (VBN added)
+            (PP (IN in)
+              (NP (DT the) (NN farm)))
+            (PP (IN before)
+              (NP (NN sowing)))))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (MD should)
+        (VP (VB be)
+          (ADJP (VBN mixed) (RB properly)
+            (PP (IN by)
+              (S
+                (VP (VBG doing)
+                  (NP
+                    (NP (CD 4-5) (NNS times))
+                    (PP (IN of)
+                      (NP (NN plowing)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Irrigation) (JJ suitable) (NN drainage))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN build)
+          (PP (IN in)
+            (NP (DT the) (NN farm))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN sowa))
+    (VP (VBZ is)
+      (VP (VBN sown)
+        (PP (IN between)
+          (NP (NNP August-November)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN crop))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN planted)
+          (PP (IN at)
+            (NP (JJ high) (NN place)))
+          (PP (IN during)
+            (NP (NNS rains)))
+          (SBAR (RB so) (IN that)
+            (S
+              (NP (DT the) (NN crop))
+              (VP
+                (VP (VBZ does))
+                (RB not)
+                (VP (VBZ gets)
+                  (NP (JJ rotten)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (NN lot))
+      (PP (IN of)
+        (NP (NN moisture))))
+    (VP (VBZ is)
+      (VP (VBN required)
+        (PP (IN at)
+          (NP (DT the) (NN farm)))
+        (PP (IN during)
+          (NP
+            (NP (NN plantation))
+            (PP (IN at)
+              (NP (DT the) (NN farm)))))
+        (SBAR (RB so) (IN that)
+          (S
+            (NP (DT the) (NNS seeds))
+            (VP (VB settle))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Little) (NN irrigation))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN done)
+          (SBAR (IN if)
+            (S
+              (NP (EX there))
+              (VP (VBZ is)
+                (NP
+                  (NP (NN lack))
+                  (PP (IN of)
+                    (NP
+                      (NP (NN moisture))
+                      (PP (IN in)
+                        (NP (DT the) (NN farm))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Irrigation))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN done)
+          (PP (IN at)
+            (NP
+              (NP (DT an) (NN interval))
+              (PP (IN of)
+                (NP (CD 8-10) (NNS days)))))
+          (PP
+            (PP (IN during)
+              (NP (NNS summers)))
+            (CC and)
+            (PP (IN after)
+              (NP (CD 25) (NNS days))))
+          (PP (IN during)
+            (NP (NNS winters))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN After)
+      (NP
+        (NP (CD 3-4) (NNS weeks))
+        (PP (IN of)
+          (NP
+            (NP (NN sowing))
+            (PP (IN during)
+              (NP (JJ first) (NN harvesting)))))))
+    (NP (DT the) (NNS weeds))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN removed))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP First) (NNP trimming))
+    (VP (VBZ is)
+      (VP (VBN done)
+        (PP
+          (PP (IN after)
+            (NP
+              (NP (CD 4-5) (NNS weeks))
+              (PP (IN of)
+                (NP (NN sowing)))))
+          (CC and)
+          (RB then)
+          (PP (IN after)
+            (S
+              (VP (VBG trimming)
+                (SBAR
+                  (S
+                    (VP (VBZ is)
+                      (VP (VBN done)
+                        (PP (IN after)
+                          (NP (DT every) (CD 15) (NNS days)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (ADVP (RB often))
+    (VP (VBZ catches)
+      (S
+        (VP (VBG drying)
+          (NP
+            (NP (NN disease))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (VP (VBN caused)
+                    (PP (IN by)
+                      (NP
+                        (NP (DT a) (NN fungus))
+                        (VP (VBN named)
+                          (NP (NN fuzerium)))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Shortness))
+    (, ,)
+    (NP
+      (NP (JJ curling)
+        (CC or)
+        (JJ other) (NNS kinds))
+      (PP (IN of)
+        (NP (NN deformation))))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (VP (VBN seen)
+        (PP (IN in)
+          (NP (PRP them)))
+        (PP (JJ due) (TO to)
+          (NP
+            (NP (NN virus))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ reduces)
+                  (NP (NN production)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Apium) (NNPS Gravioles) (NNP ver))
+    (VP (VBP apium)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN kandol))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ is)
+                  (VP (VBN known)
+                    (PP (IN as)
+                      (NP (NN celery))))))))
+          (VP (VBZ is)
+            (NP
+              (NP (DT a) (NN plant))
+              (PP (IN of) ('' '')
+                (NP (NN ambeliferry) ('' '') (NN family))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (VP (VBN known)
+        (PP (IN as)
+          (NP (NN celery)))
+        (PP (IN with)
+          (NP (NN turnip) (NNS roots)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NNS roots))
+    (VP (VBP are)
+      (VP (VBN consumed)
+        (PP (IN after)
+          (NP (NN cooking)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (NN family))
+          (PP (IN of)
+            (NP
+              (NP
+                (QP (RB around) (CD 40))
+                (NNS species))
+              (PP (IN with)
+                (NP (JJ yearly)
+                  (CC or)
+                  (JJ multi) (JJ yearly) (NNS herbs)))))))
+      (CC and)
+      (VP (VBZ is)
+        (VP (VBN found)
+          (SBAR
+            (S
+              (VP (VBZ is)
+                (NP
+                  (NP (JJ temperate) (NNS regions))
+                  (CC or)
+                  (NP (JJ hilly) (JJ tropical) (NNS regions)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN In)
+      (NP (NNP France)))
+    (NP (NNP Agraviloyans))
+    (VP (VBZ is)
+      (ADJP (JJ cultivated)
+        (S
+          (VP (TO to)
+            (VP
+              (VP (VB get)
+                (NP (NNS seeds)))
+              (CC and)
+              (VP
+                (PP (IN in)
+                  (NP (JJ entire) (NNP Europe)
+                    (CC and)
+                    (NNP America)))
+                (PP (IN for)
+                  (NP (NN salad)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NNS seeds))
+    (VP (VBP are)
+      (VP (VBN exported)
+        (PP (TO to)
+          (NP (NNP America) (, ,) (NNP Europe)
+            (CC and)
+            (NNP Japan)))
+        (PP (IN from)
+          (NP (NNP India)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Dry))
+    (VP (VBP mature)
+      (SBAR
+        (S
+          (NP
+            (NP (NNS fruits))
+            (PRN (-LRB- -LRB-)
+              (NP (JJ celery) (NNS seeds))
+              (-RRB- -RRB-)))
+          (VP (VBP are)
+            (NP (NNS spices))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP It))
+      (VP (VBZ is)
+        (VP (VBN used)
+          (PP (IN as)
+            (NP (JJ anti) (NNS numbness))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBZ energizes)
+        (NP (NNS nerves))))
+    (. .)))
+
+(ROOT
+  (S
+    (SBAR (IN In)
+      (S
+        (NP (NNP India))
+        (ADVP (RB celery))
+        (VP
+          (VP (VBZ leaves))
+          (CC and)
+          (VP (VBZ stems)))))
+    (VP (VBP are)
+      (ADVP (RB mostly))
+      (VP (VBN used)
+        (PP (IN by)
+          (NP (NNPS Europeans)))
+        (S
+          (VP (TO to)
+            (VP (VB make)
+              (NP (NN salad)
+                (CC and)
+                (NN soup)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN herb))
+    (VP (VBZ contains)
+      (ADJP (JJ glucoside)
+        (CC and)
+        (JJ epin)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Light) (NN yellow))
+      (VP (VBN colored)
+        (S
+          (VP (VBG vaporizing)
+            (NP (NN oil))))))
+    (VP (VBZ is)
+      (VP (VBN obtained)
+        (PP (IN from)
+          (NP
+            (NP (JJ celery) (NNS fruits))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ gives)
+                  (NP
+                    (NP (DT a) (JJ specific) (NN kind))
+                    (PP (IN of)
+                      (NP (NN smell)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP
+      (VP (VBP are)
+        (VP (VBN known)
+          (PP (IN as)
+            (NP
+              (NP (JJ celery) (NN oil))
+              (PP (IN in)
+                (NP (DT the) (NN market)))))))
+      (CC and)
+      (VP (VBZ is)
+        (VP
+          (VP (VBN considered)
+            (S
+              (VP (TO to)
+                (VP (VB be)
+                  (ADJP (JJ useful)
+                    (PP (IN as)
+                      (NP (DT a) (NN stabilizer))))))))
+          (CC and)
+          (VP (VBZ creates)
+            (NP (JJ unique) (NN fragrance))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Celery))
+      (VP (VBZ is)
+        (NP
+          (NP (DT a) (JJ biennial) (NN plant))
+          (PP (IN in)
+            (NP (JJ cold) (NN climate)
+              (CC and)
+              (NNS hills))))))
+    (CC and)
+    (S
+      (ADVP (RB there))
+      (NP (DT this) (NN seed))
+      (VP (VBZ grows)
+        (PP
+          (PP (IN in)
+            (NP (DT the) (JJ second) (NN year)))
+          (CC and)
+          (PP (IN in)
+            (NP
+              (NP (NNS plains))
+              (SBAR
+                (S
+                  (NP (PRP it))
+                  (VP (VBZ grows)
+                    (PP (IN in)
+                      (NP (DT a) (JJ single) (NN year) (PRP itself)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ humid) (VBG loving) (NN plant))
+        (PP (IN of)
+          (NP (JJ cold) (NN climate)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT This) (NN crop))
+      (VP (VBZ takes)
+        (NP
+          (NP (DT a) (NN lot))
+          (PP (IN of)
+            (NP
+              (NP (NN nutrition))
+              (PP (IN from)
+                (NP (DT the) (NN land))))))
+        (ADVP (RB therefore))))
+    (NP (PRP it))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN supplied)
+          (PP (IN with)
+            (NP
+              (NP (JJ rich) (NN manure))
+              (SBAR
+                (WHNP (WDT which))
+                (S
+                  (VP (VBZ is)
+                    (ADJP (RB carefully) (JJ prepared))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Clay) (NN soil))
+    (VP (VBZ is) (RB not)
+      (ADJP (JJ good)
+        (PP (IN for)
+          (NP (DT this)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN drainage))
+      (PP (IN of)
+        (NP (NN farm) (NN water))))
+    (VP (MD should)
+      (ADVP (RB also))
+      (VP (VB be)
+        (ADJP (JJ proper))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN farm))
+    (VP (MD should)
+      (ADVP (IN at) (JJS least))
+      (VP (VB be)
+        (VP
+          (VP (VBN plowed)
+            (S
+              (VP (VBG using)
+                (NP
+                  (NP (DT a) (NN tiller))
+                  (PP (IN for)
+                    (NP (JJ two-three) (NNS times)))))))
+          (CC and)
+          (VP (VBN made)
+            (ADVP (RB powdery))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS plants))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN planted)
+          (PP (IN in)
+            (NP (NNS rows))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS plants))
+    (VP (VBP are)
+      (VP (VBN prepared)
+        (PP (IN by)
+          (NP (NN sowing) (NN celery) (NNS seeds)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN crop))
+    (VP (VBZ matures)
+      (CC and)
+      (VBZ gets)
+      (S
+        (ADJP (JJ prepared)
+          (PP (IN by)
+            (NP (NNP April))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS seeds))
+    (VP (VBP are)
+      (VP (VBN sown)
+        (PP (IN in)
+          (NP (JJ hilly) (NNS areas)))
+        (PP (IN during)
+          (NP (NNP March-April)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Celery))
+    (VP (VBZ requires)
+      (NP
+        (NP (DT a) (NN lot))
+        (PP (IN of)
+          (NP (NN water)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Celery))
+    (VP (VBZ catches)
+      (NP
+        (NP (DT some) (JJ fungal) (NNS diseases))
+        (PP (JJ such) (IN as)
+          (NP
+            (NP (JJ early) (NN blight))
+            (, ,)
+            (NP (JJ late) (NN blight))
+            (CC and)
+            (NP (JJ bacterial) (NN blight))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP spraying))
+      (PP (IN of)
+        (NP (NN sulfur)
+          (CC and)
+          (JJ dry) (NN lime))))
+    (VP (VBZ is)
+      (VP (VBN suggested)
+        (S
+          (VP (TO to)
+            (VP (VB control)
+              (NP (NNS insects)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT No) (JJ big) (JJ harmful) (NN insect))
+    (VP (VBZ destroys)
+      (NP (PRP it))
+      (PP (IN in)
+        (NP (NNP India))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Artimecia) (NNPS Palens) (NNP Wall))
+    (VP (VBZ is)
+      (NP
+        (NP (DT a) (JJ traditional) (NN vegetative) (NN plant))
+        (PP (IN of) ('' '')
+          (NP (NN compositi) ('' '') (NN family)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP are)
+        (VP (VBN used)
+          (PP (IN in)
+            (NP
+              (NP (NNS temples))
+              (PP (IN for)
+                (NP (NN worshiping))))))))
+    (CC and)
+    (S
+      (NP (NNS garlands)
+        (CC and)
+        (NNS bouquets))
+      (VP (VBP are)
+        (ADVP (RB also))
+        (VP (VBN made))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS Flowers))
+      (PP (IN of)
+        (NP
+          (NP (JJ several) (NNS species))
+          (PP (IN of)
+            (NP (DT this) (NN plant))))))
+    (VP (VBP are)
+      (VP (VBN sold)
+        (PP (IN in)
+          (NP (JJ southern) (NNP India)))
+        (PP (IN at)
+          (NP (JJ small) (NN scale)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Perfumed) (NN oil))
+      (PP (IN of)
+        (NP (NN dawan))))
+    (VP (VBZ is)
+      (VP (VBN exported)
+        (PP (TO to)
+          (NP (NNP America)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN crop))
+    (VP (VBZ requires)
+      (NP
+        (NP (JJ intense) (NN sunlight))
+        (, ,)
+        (NP
+          (NP (NN winter))
+          (PP (IN without)
+            (NP (NN fog))))
+        (CC and)
+        (NP
+          (NP (JJ heavy) (NN dew))
+          (PP (IN during)
+            (NP (NN morning))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Dawan))
+      (VP (MD can) (RB not)
+        (ADVP (RB even))
+        (VP (VB tolerate)
+          (NP (JJ heavy) (NNS rainfall)))))
+    (CC but)
+    (S
+      (NP (NN irrigation))
+      (VP (VBZ is)
+        (VP (VBN required))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Therefore))
+    (NP (PRP it))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN cultivated)
+          (ADVP (RB very) (RB carefully)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Red) (JJ sandy) (NN soil))
+      (SBAR
+        (WHNP (WDT which))
+        (S
+          (VP (VBZ does)
+            (SBAR
+              (S
+                (VP (VBZ does) (RB n't))))))))
+    (VP (VBZ holds)
+      (SBAR
+        (S
+          (NP (NN water))
+          (VP (VBZ is)
+            (ADJP (JJ good)
+              (PP (IN for)
+                (NP (PRP$ its) (NN cultivation))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS seeds))
+    (VP (VBP have)
+      (ADVP (RB so) (RB much))
+      (VP (VBN fragrance)
+        (SBAR (IN that)
+          (S
+            (NP (NNS ants))
+            (VP (VBP make)
+              (NP
+                (NP
+                  (ADJP (RB so) (JJ many))
+                  (NNS holes))
+                (PP (IN in)
+                  (NP (PRP them))))
+              (PP (IN while)
+                (S
+                  (VP (VBG eating)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (ADVP (RB Hence))
+    (NP (PRP$ its) (NN cultivation))
+    (VP (VBZ requires)
+      (NP (JJ special) (NN care)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Their) (NNS seeds))
+      (VP (VBP are)
+        (ADJP (RB very) (JJ small))))
+    (CC and)
+    (S
+      (NP (CD 6000) (NNS seeds))
+      (VP (VBP weigh)
+        (PP (IN around)
+          (NP (CD one) (NN gram)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD Two) (NN meter) (RB long))
+      (CC and)
+      (NP (CD one) (JJ meter) (JJ wide) (NNS beds)))
+    (VP (VBP are)
+      (VP (VBN made)
+        (PP (IN for)
+          (NP (PRP them)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (CD 10) (NNS kilograms))
+      (PP (IN of)
+        (NP (JJ rotten) (NN cow) (NN dung) (NN manure))))
+    (VP (VBZ is)
+      (ADJP (JJ mixed)
+        (PP (IN in)
+          (NP (DT every) (NN bed)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT No) (NN chemical) (NN fertilizer))
+    (VP (VBZ is)
+      (VP (VBN added)
+        (PP (IN during)
+          (NP (DT this) (NN time)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN soil))
+      (PP (IN of)
+        (NP (DT every) (NN bed))))
+    (VP (VBD leveled)
+      (PP (IN after)
+        (S
+          (VP (VBG mixing)
+            (NP (DT the) (NN manure))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (CD One) (NN gram) (NN seed))
+    (VP (VBZ is)
+      (VP (VBN required)
+        (PP (IN for)
+          (NP (CD one) (NN square) (NN meter) (NN area)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT These) (NNS seeds))
+    (VP (VBP are)
+      (ADVP (RB properly))
+      (ADJP (JJ mixed)
+        (PP (IN in)
+          (NP
+            (NP (NN soil))
+            (PP (IN of)
+              (NP
+                (NP
+                  (ADVP (IN around)
+                    (NP (CD 4-5) (NNS times)))
+                  (DT the) (NN amount))
+                (PP (IN of)
+                  (NP (NNS seeds)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ sprouted) (NNS seeds))
+    (VP (VBP are)
+      (ADJP (VBN mixed)
+        (PP (IN in)
+          (NP
+            (NP (JJ dry) (NN sand))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBZ helps)
+                  (PP (IN in)
+                    (S
+                      (VP (VBG carrying)
+                        (CC and)
+                        (VBG holding)
+                        (NP (PRP them))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT A) (JJ thin) (NN layer))
+      (PP (IN of)
+        (NP (NN sand))))
+    (VP (VBZ is)
+      (VP (VBN layered)
+        (PP (IN at)
+          (NP
+            (NP (DT the) (NN top))
+            (SBAR
+              (WHADVP (WRB when))
+              (S
+                (NP (PDT all) (DT the) (NNS seeds))
+                (VP (VBP are)
+                  (ADJP (JJ sown)))))))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (ADVP (RB again))
+    (NP (PRP it))
+    (VP (VBZ is)
+      (VP (VBN irrigated)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBZ starts)
+      (S
+        (VP (VBG sprouting)
+          (PP (IN by)
+            (NP (DT the) (JJ next) (NN day))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN nursery))
+    (VP (VBZ is)
+      (VP (VBN irrigated)
+        (NP (NN everyday))
+        (PP (IN with)
+          (NP
+            (NP (DT the) (NN help))
+            (PP (IN of)
+              (NP
+                (NP (NN fountain))
+                (PP (IN in)
+                  (NP
+                    (NP (DT the) (JJ first) (NN week))
+                    (PP (IN of)
+                      (NP (NN sowing)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN Within)
+      (NP
+        (NP (CD 7-10) (NNS days))
+        (PP (IN of)
+          (NP (NN sowing)))))
+    (NP (DT the) (NNS plants))
+    (ADVP (RB properly))
+    (VP (VB grow)
+      (PP (IN in)
+        (NP (DT the) (NN nursery))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS plants))
+    (VP (VBP grow)
+      (ADVP (RB well))
+      (SBAR (IN if)
+        (S
+          (NP (PRP they))
+          (VP (VBP are)
+            (VP (VBN supplied)
+              (PP (IN with)
+                (NP
+                  (NP (CD 10) (NNS grams))
+                  (PP (IN of)
+                    (NP (NN urea)))))
+              (PP (IN in)
+                (NP (DT the) (JJ third) (NN week))))))))
+    (. .)))
+
+(ROOT
+  (S (RB Then)
+    (PP (IN after)
+      (NP
+        (NP (CD 3) (NN meter) (RB long))
+        (CC and)
+        (NP (CD 1) (NN meter))))
+    (NP (JJ wide) (NNS beds))
+    (VP (VBP are)
+      (VP (VBN made)
+        (S
+          (VP (TO to)
+            (VP (VB transfer)
+              (NP (NN dawan)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN farm))
+    (VP (VBZ is)
+      (VP (VBN irrigated)
+        (NP (CD one) (NN day))
+        (PP (IN before)
+          (NP (DT the) (NN transfer)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ Little) (NN irrigation))
+    (VP (VBZ is)
+      (VP (VBN done)
+        (PP (IN after)
+          (NP (NN plantation)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN farm))
+    (VP (VBZ is)
+      (ADVP (RB again) (RB carefully))
+      (VP (VBN irrigated)
+        (PP (IN after)
+          (NP
+            (NP (DT the) (NN completion))
+            (PP (IN of)
+              (NP
+                (NP (CD one) (NN week))
+                (PP (IN of)
+                  (NP (NN plantation)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNS Weeds))
+      (VP (MD should) (RB not)
+        (VP (VB be)
+          (VP (VBN allowed)
+            (S
+              (VP (TO to)
+                (VP (VB stand)
+                  (PP (IN in)
+                    (NP (NN dawan) (NNS farms))))))))))
+    (, ,)
+    (NP (NNP Weed) (NNP removing))
+    (VP (MD should)
+      (VP (VB be)
+        (VP (VBN done)
+          (NP
+            (ADVP (IN at) (JJS least))
+            (CD 2-3) (NNS times))
+          (PP (IN in)
+            (NP (DT the) (NN farm))))))
+    (. .)))
+    
